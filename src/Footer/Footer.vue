@@ -13,7 +13,7 @@
       <a class="SocialIcon Icon-Facebook" href="https://www.facebook.com/jsconf.am/" target="_blank"></a>
       <a class="SocialIcon Icon-Twitter" href="https://twitter.com/jsconf_am/" target="_blank"></a>
       <a class="SocialIcon Icon-Instagram" href="https://www.instagram.com/jsconf.am/" target="_blank"></a>
-      <a class="SocialIcon Icon-Youtube" href="https://www.youtube.com/channel/UCkzEOKU959F6_T0OaQBH4VQ/featured" target="_blank"></a>
+      <a class="SocialIcon Icon-YouTube" href="https://www.youtube.com/channel/UCkzEOKU959F6_T0OaQBH4VQ/featured" target="_blank"></a>
     </div>
 
     <div class="PressRelease">
@@ -23,9 +23,7 @@
     </div>
 
     <p class="Credits">
-      Design and branding by
-      <a href="http://digitalfactory.co/" target="_blank">Digital Factory</a>,
-      coded in Vue.js by <a href="https://github.com/modularcoder" target="_blank">@modularcoder</a>,
+      Coded in Vue.js by <a href="https://github.com/modularcoder" target="_blank">@modularcoder</a>,
       <a href="https://github.com/nairihar" target="_blank">@nairihar</a> and
       <a href="https://github.com/JSConfArmenia/conf-18/graphs/contributors" target="_blank">others</a>.
     </p>

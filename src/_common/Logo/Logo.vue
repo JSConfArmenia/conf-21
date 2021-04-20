@@ -33,10 +33,10 @@ export default {
   transition: all .3s ease;
 
   &.compact, &.open {
-    height: 26px;
+    height: 36px;
+    background-image: url('../Ninja/Ninja.svg');
     padding-bottom: 0;
     background-size: 100px;
-    background-position-y: -55px;
     overflow: hidden;
   }
 

@@ -2,13 +2,13 @@
   <section class="Intro" id="Intro">
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
-      <h3 class="Subtitle">November 3, 2018</h3>
-      <a href="http://bit.ly/joinJSConf2018" class="Button -default" target="_blank">
+      <h3 class="Subtitle">June 19, 2021</h3>
+      <a href="http://bit.ly/joinJSConf2021" class="Button -default" target="_blank">
         Request an Invite
       </a>
     </div>
 
-    <div class="IntroSponsor">
+    <!-- <div class="IntroSponsor">
       <div>
         <a href="https://www.simplytechnologies.net/" target="_blank">
           <img src="/sponsors/simply.svg" />
@@ -17,7 +17,7 @@
       <div class="Description">
         General sponsor
       </div>
-    </div>
+    </div> -->
 
     <div class="IntroBgMain"></div>
     <div class="IntroBgLeft"></div>

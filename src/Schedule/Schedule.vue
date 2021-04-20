@@ -2,7 +2,7 @@
   <section class="Schedule" id="Schedule">
     <div class="Container">
       <h2 class="Title">Event Schedule</h2>
-      <h3 class="Subtitle">November 3, 2018</h3>
+      <h3 class="Subtitle">June 19, 2021</h3>
 
       <div class="TimeTable">
         <div class="TimeTableSection">

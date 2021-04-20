@@ -3,13 +3,13 @@
     <AppHeader />
     <Intro />
     <About />
-    <Schedule />
+    <!-- <Schedule /> -->
     <Speakers />
     <Sponsors />
     <Team />
     <Location />
     <Faq />
-    <Quiz />
+    <!-- <Quiz /> -->
     <AppFooter />
   </div>
 </template>

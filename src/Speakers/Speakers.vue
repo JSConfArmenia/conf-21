@@ -2,7 +2,7 @@
   <section class="Speakers" id="Speakers">
     <div class="Container">
       <h2 class="Title">Who are<br><span class="Accent">The Ninjas?</span></h2>
-      <div class="row no-gutters justify-content-center">
+      <!-- <div class="row no-gutters justify-content-center">
         <div
           class="col-md-4 SpeakerCol"
           v-for="speakerId in speakersList"
@@ -18,12 +18,12 @@
             <h5 class="Position">{{speakers[speakerId].position}}</h5>
           </div>
         </div>
-      </div>
-      <!-- <div class="CallToActionContainer">
+      </div> -->
+      <div class="CallToActionContainer">
         <a href="http://bit.ly/speakJS" class="Button -call-to-action" target="_blank">
           Become a Ninja!
         </a>
-      </div> -->
+      </div> 
     </div>
     <div class="SpeakersBg"></div>
   </section>

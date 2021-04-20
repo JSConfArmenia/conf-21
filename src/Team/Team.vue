@@ -35,7 +35,7 @@ export default {
         position: 'Co-Founder at Simply Technologies',
       },
       {
-        img: '/team/Varser_Zakaryan.jpg',
+        img: '/team/Varser_Zakaryan.jpeg',
         name: 'Varser Zakaryan',
         position: 'Project Manager at JavaScript Conference Armenia',
       },

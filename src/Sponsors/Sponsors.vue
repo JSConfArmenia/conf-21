@@ -1,7 +1,7 @@
 <template>
   <section class="Sponsors" id="Sponsors">
     <div class="Container">
-
+      <!--
       <section class="Section">
         <h3 class="Subtitle">General sponsor</h3>
 
@@ -123,18 +123,18 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="Section">
         <h3 class="Subtitle">Partners and friends</h3>
 
         <div class="row justify-content-center">
-          <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+          <!-- <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-itjobs -starter" href="https://www.itjobs.am/" target="_blank">
               <div class="Image"></div>
               <h4 class="Name">IT Jobs</h4>
             </a>
-          </div>
+          </div> -->
 
           <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-aua -starter" href="https://www.aua.am/" target="_blank">
@@ -145,11 +145,11 @@
         </div>
       </section>
 
-      <!-- <div class="CallToActionContainer">
+      <div class="CallToActionContainer">
         <a href="http://bit.ly/supportArmJS" class="Button -call-to-action -small" target="_blank">
           Become a sponsor!
         </a>
-      </div> -->
+      </div>
     </div>
 
     <div class="SponsorsBgTop"></div>
