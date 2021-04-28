@@ -16,11 +16,11 @@
       <a class="SocialIcon Icon-YouTube" href="https://www.youtube.com/channel/UCkzEOKU959F6_T0OaQBH4VQ/featured" target="_blank"></a>
     </div>
 
-    <div class="PressRelease">
+    <!-- <div class="PressRelease">
       Press Release
       <a href="/Press-Release-EN.pdf" target="_blank">En</a> |
       <a href="/Press-Release-AM.pdf" target="_blank">Am</a>
-    </div>
+    </div> -->
 
     <p class="Credits">
       Coded in Vue.js by <a href="https://github.com/modularcoder" target="_blank">@modularcoder</a>,
@@ -123,7 +123,7 @@ export default {
   background-image: url('./instagram.png');
 }
 
-.Icon-Youtube {
+.Icon-YouTube {
   background-image: url('./youtube.png');
 }
 

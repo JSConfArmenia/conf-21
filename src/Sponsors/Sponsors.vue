@@ -1,7 +1,6 @@
 <template>
   <section class="Sponsors" id="Sponsors">
     <div class="Container">
-      <!--
       <section class="Section">
         <h3 class="Subtitle">General sponsor</h3>
 
@@ -14,7 +13,7 @@
           </div>
         </div>
       </section>
-
+      <!--
       <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
@@ -146,7 +145,7 @@
       </section>
 
       <div class="CallToActionContainer">
-        <a href="http://bit.ly/supportArmJS" class="Button -call-to-action -small" target="_blank">
+        <a href="http://bit.ly/supportJSConfAM21" class="Button -call-to-action -small" target="_blank">
           Become a sponsor!
         </a>
       </div>
