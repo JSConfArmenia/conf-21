@@ -31,7 +31,7 @@
 
         <h3 class="Question">When is it going to take place?</h3>
         <p class="Answer">
-          The conference will take place from 10:00 to 18:00 on June  19, 2021.
+          The conference will take place from 10:00 to 18:00 on July 3, 2021.
         </p>
 
         <h3 class="Question">Where is it going to be held?</h3>
@@ -72,7 +72,7 @@
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
           Oh, thank you for your kindness.
-          To help us make the JavaScript Conference Armenia happen please <a href="http://bit.ly/kindninja" target="_blank">apply here</a>
+          To help us make the JavaScript Conference Armenia happen please <a href="http://bit.ly/kindninja21" target="_blank">apply here</a>
           to become a JS Conf ninja volunteer!
         </p>
 
