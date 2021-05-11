@@ -23,9 +23,8 @@
     </div> -->
 
     <p class="Credits">
-      Coded in Vue.js by <a href="https://github.com/modularcoder" target="_blank">@modularcoder</a>,
-      <a href="https://github.com/nairihar" target="_blank">@nairihar</a> and
-      <a href="https://github.com/JSConfArmenia/conf-18/graphs/contributors" target="_blank">others</a>.
+      Coded in Vue.js by <a href="https://github.com/modularcoder" target="_blank">@modularcoder</a> and
+      <a href="https://github.com/JSConfArmenia/conf-21/graphs/contributors" target="_blank">others</a>.
     </p>
 
     <div class="FooterBgLeft"></div>
