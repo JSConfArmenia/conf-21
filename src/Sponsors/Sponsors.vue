@@ -13,12 +13,17 @@
           </div>
         </div>
       </section>
-      <!--
       <section class="Section">
         <h3 class="Subtitle">Gold sponsors</h3>
 
         <div class="row justify-content-center">
-
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+            <a class="Sponsor Sponsor-SuperAnnotate -gold" href="https://superannotate.com/" target="_blank">
+              <div class="Image"></div>
+              <h4 class="Name">SuperAnnotate</h4>
+            </a>
+        </div>
+      <!--
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
             <a class="Sponsor Sponsor-Workfront -gold" href="https://www.workfront.com/" target="_blank">
               <div class="Image"></div>
@@ -36,10 +41,10 @@
               <div class="Image"></div>
               <h4 class="Name">Devlix</h4>
             </a>
-          </div>
+          </div> -->
         </div>
       </section>
-
+      <!--
       <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
@@ -286,8 +291,13 @@ export default {
     background-size: 370px;
   }
 
+  &.Sponsor-SuperAnnotate .Image {
+    background-image: url('/sponsors/superannotate.svg');
+    background-size: 240px;
+  }
+
   &.Sponsor-Workfront .Image {
-    background-image: url('/sponsors/workfront.png');
+    background-image: url('/sponsors/');
     background-size: 240px;
   }
 
