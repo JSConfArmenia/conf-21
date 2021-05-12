@@ -3,9 +3,9 @@
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
       <!-- <h3 class="Subtitle">July  3, 2021</h3> -->
-      <a href="http://bit.ly/joinJSConf2021" class="Button -default" target="_blank">
+      <!-- <a href="http://bit.ly/joinJSConf2021" class="Button -default" target="_blank">
         Request an Invite
-      </a>
+      </a> -->
     </div>
 
     <div class="IntroSponsor">
