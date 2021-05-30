@@ -1,7 +1,7 @@
 <template>
-  <section class="Sponsors" id="Sponsors">
+  <section class="Sponsors">
     <div class="Container">
-      <section class="Section">
+      <section class="Section" id="Sponsors">
         <h3 class="Subtitle">General sponsor</h3>
 
         <div class="row justify-content-center">
@@ -23,39 +23,57 @@
               <h4 class="Name">SuperAnnotate</h4>
             </a>
         </div>
-      <!--
+
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-            <a class="Sponsor Sponsor-Workfront -gold" href="https://www.workfront.com/" target="_blank">
+            <a class="Sponsor Sponsor-MentorcliQ -gold" href="https://www.mentorcliq.com/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">Workfront</h4>
+              <h4 class="Name">MentorcliQ</h4>
             </a>
           </div>
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-            <a class="Sponsor Sponsor-Digitain -gold" href="https://digitain.com/" target="_blank">
+            <a class="Sponsor Sponsor-PicsArt -gold" href="https://picsart.com/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">Digitain</h4>
+              <h4 class="Name">PicsArt</h4>
             </a>
           </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-            <a class="Sponsor Sponsor-Devlix -gold" href="https://www.devlix.io/" target="_blank">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+            <a class="Sponsor Sponsor-Hexact -gold" href="https://hexact.io/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">Devlix</h4>
+              <h4 class="Name">Hexact, Inc.</h4>
             </a>
-          </div> -->
+          </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+            <a class="Sponsor Sponsor-WebbFontaine -gold" href="https://webbfontaine.com/" target="_blank">
+              <div class="Image"></div>
+              <h4 class="Name">Webb Fontaine</h4>
+            </a>
+          </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+            <a class="Sponsor Sponsor-Brainstorm -gold" href="https://brainstormtech.io/" target="_blank">
+              <div class="Image"></div>
+              <h4 class="Name">Brainstorm Technologies</h4>
+            </a>
+          </div>
         </div>
       </section>
-      <!--
       <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
         <div class="row justify-content-center">
 
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-SFL -silver" href="https://sflpro.com/" target="_blank">
+            <a class="Sponsor Sponsor-Coinstats -silver" href="https://coinstats.app/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">SFL</h4>
+              <h4 class="Name">Coinstats</h4>
             </a>
           </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
+            <a class="Sponsor Sponsor-Renderforest -silver" href="https://www.renderforest.com/" target="_blank">
+              <div class="Image"></div>
+              <h4 class="Name">RenderForest</h4>
+            </a>
+          </div>
+          <!--
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Synergy -silver" href="https://www.synisys.com/" target="_blank">
               <div class="Image"></div>
@@ -63,12 +81,6 @@
             </a>
           </div>
 
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Renderforest -silver" href="https://www.renderforest.com/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">RenderForest</h4>
-            </a>
-          </div>
 
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-DF -silver" href="http://digitalfactory.co/" target="_blank">
@@ -91,11 +103,11 @@
               <div class="Image"></div>
               <h4 class="Name">Vineti</h4>
             </a>
-          </div>
+          </div> -->
 
         </div>
       </section>
-
+<!--
       <section class="Section">
         <h3 class="Subtitle">Starter sponsors</h3>
 
@@ -127,18 +139,17 @@
             </a>
           </div>
         </div>
-      </section> -->
-
+      </section> 
       <section class="Section">
         <h3 class="Subtitle">Partners and friends</h3>
 
         <div class="row justify-content-center">
-          <!-- <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+          <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-itjobs -starter" href="https://www.itjobs.am/" target="_blank">
               <div class="Image"></div>
               <h4 class="Name">IT Jobs</h4>
             </a>
-          </div> -->
+          </div>
 
           <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-aua -starter" href="https://www.aua.am/" target="_blank">
@@ -147,7 +158,7 @@
             </a>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <div class="CallToActionContainer">
         <a href="http://bit.ly/supportJSConfAM21" class="Button -call-to-action -small" target="_blank">
@@ -286,45 +297,39 @@ export default {
     }
   }
 
-  &.Sponsor-Digitain .Image {
-    background-image: url('/sponsors/digitain.svg');
-    background-size: 370px;
-  }
-
   &.Sponsor-SuperAnnotate .Image {
     background-image: url('/sponsors/superannotate.svg');
     background-size: 240px;
   }
 
-  &.Sponsor-Workfront .Image {
-    background-image: url('/sponsors/');
+  &.Sponsor-MentorcliQ .Image {
+    background-image: url('/sponsors/mentorcliq.svg');
     background-size: 240px;
   }
 
-  &.Sponsor-Devlix .Image {
-    background-image: url('/sponsors/devlix.svg');
+  &.Sponsor-PicsArt .Image {
+    background-image: url('/sponsors/picsart.png');
     background-size: 240px;
   }
 
-  &.Sponsor-SFL .Image {
-    background-image: url('/sponsors/sfl.svg');
+  &.Sponsor-Hexact .Image {
+    background-image: url('/sponsors/hexact.svg');
+    background-size: 240px;
+  }
+
+  &.Sponsor-WebbFontaine .Image {
+    background-image: url('/sponsors/webbfontaine.svg');
+    background-size: 240px;
+  }
+
+  &.Sponsor-Brainstorm .Image {
+    background-image: url('/sponsors/brainstorm.svg');
+    background-size: contain
+  }
+
+  &.Sponsor-Coinstats .Image {
+    background-image: url('/sponsors/coinstats.svg');
     background-size: 120px;
-  }
-
-  &.Sponsor-Synergy .Image {
-    // width: 80px;
-    background-image: url('/sponsors/synergy.svg');
-    background-size: 146px;
-  }
-
-  &.Sponsor-Develandoo .Image {
-    background-image: url('/sponsors/develandoo.png');
-    background-size: 90px;
-  }
-
-  &.Sponsor-DF .Image {
-    background-image: url('/sponsors/df.png');
-    background-size: 129px;
   }
 
   &.Sponsor-Renderforest .Image {
@@ -332,44 +337,30 @@ export default {
     background-size: 150px;
   }
 
-  &.Sponsor-Vineti .Image {
-    background-image: url('/sponsors/vineti.png');
-    background-size: 129px;
-  }
 
   &.Sponsor-Simply .Image {
     background-image: url('/sponsors/simply.svg');
   }
 
-  &.Sponsor-Armsoft .Image {
-    background-image: url('/sponsors/armsoft.svg');
-    background-size: 110px;
-  }
+  // &.Sponsor-Vineti .Image {
+  //   background-image: url('/sponsors/vineti.png');
+  //   background-size: 129px;
+  // }
 
-  &.Sponsor-IUNetworks .Image {
-    background-image: url('/sponsors/iunetworks.png');
-    background-size: 132px;
-  }
+  // &.Sponsor-Screenful .Image {
+  //   background-image: url('/sponsors/screenful.png');
+  //   background-size: 110px;
+  // }
 
-  &.Sponsor-EventGeek .Image {
-    background-image: url('/sponsors/eventgeek.svg');
-    background-size: 132px;
-  }
+  // &.Sponsor-itjobs .Image {
+  //   width: 80px;
+  //   background-image: url('/sponsors/itjobs.svg');
+  // }
 
-  &.Sponsor-Screenful .Image {
-    background-image: url('/sponsors/screenful.png');
-    background-size: 110px;
-  }
-
-  &.Sponsor-itjobs .Image {
-    width: 80px;
-    background-image: url('/sponsors/itjobs.svg');
-  }
-
-  &.Sponsor-aua .Image {
-    width: 80px;
-    background-image: url('/sponsors/aua.png');
-  }
+  // &.Sponsor-aua .Image {
+  //   width: 80px;
+  //   background-image: url('/sponsors/aua.png');
+  // }
 }
 
 .CallToActionContainer {
