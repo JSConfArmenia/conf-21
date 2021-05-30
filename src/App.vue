@@ -6,6 +6,7 @@
     <!-- <Schedule /> -->
     <!-- <Speakers /> -->
     <Sponsors />
+    <Jobs />
     <Team />
     <Location />
     <!-- <Faq /> -->
@@ -23,6 +24,7 @@ import Speakers from './Speakers/Speakers.vue';
 import Sponsors from './Sponsors/Sponsors.vue';
 import Team from './Team/Team.vue';
 import Location from './Location/Location.vue';
+import Jobs from './Jobs/Jobs.vue';
 import Faq from './Faq/Faq.vue';
 import Quiz from './Quiz/Quiz.vue';
 import AppFooter from './Footer/Footer.vue';
@@ -38,6 +40,7 @@ export default {
     Sponsors,
     Team,
     Location,
+    Jobs,
     Faq,
     Quiz,
     AppFooter,
