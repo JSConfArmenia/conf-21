@@ -20,10 +20,6 @@
         
       </div>
       <div class="col-md-4">    
-        <a href="https://www.simplytechnologies.net/careers/angular">
-            <h3 class="Vacancy">Mid+ Angular2+ Developer</h3>
-            <p class="Company">Simply Technologies</p>
-        </a>
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999742519834-senior-backend-software-engineer">
             <h3 class="Vacancy">Senior Backend Software Engineer</h3>
             <p class="Company">SuperAnnotate</p>
