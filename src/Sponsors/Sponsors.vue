@@ -324,7 +324,7 @@ export default {
 
   &.Sponsor-Brainstorm .Image {
     background-image: url('/sponsors/brainstorm.svg');
-    background-size: 240px;
+    background-size: contain;
   }
 
   &.Sponsor-Coinstats .Image {
