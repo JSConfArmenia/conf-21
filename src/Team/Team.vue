@@ -47,7 +47,7 @@ export default {
       {
         img: '/team/Rouben_Meschian.jpg',
         name: 'Rouben Meschian',
-        position: 'Founding Software Engineer at Cambridge Semantics',
+        position: 'Founder at Arminova Technologies',
       },
       {
         img: '/team/Edgar_Marukyan.jpg',
