@@ -4,7 +4,7 @@
     <Intro />
     <About />
     <!-- <Schedule /> -->
-    <!-- <Speakers /> -->
+    <Speakers />
     <Sponsors />
     <Jobs />
     <Team />

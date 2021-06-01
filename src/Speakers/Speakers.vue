@@ -1,8 +1,8 @@
 <template>
-  <section class="Speakers" id="Speakers">
-    <div class="Container">
+  <section class="Speakers">
+    <div class="Container" id="Speakers">
       <h2 class="Title">Who are<br><span class="Accent">The Ninjas?</span></h2>
-      <!-- <div class="row no-gutters justify-content-center">
+      <div class="row no-gutters justify-content-center">
         <div
           class="col-md-4 SpeakerCol"
           v-for="speakerId in speakersList"
@@ -18,9 +18,9 @@
             <h5 class="Position">{{speakers[speakerId].position}}</h5>
           </div>
         </div>
-      </div> -->
+      </div>
       <div class="CallToActionContainer">
-        <a href="http://bit.ly/speakJS" class="Button -call-to-action" target="_blank">
+        <a href="https://bit.ly/speakJS2021" class="Button -call-to-action" target="_blank">
           Become a Ninja!
         </a>
       </div>
@@ -36,31 +36,7 @@ export default {
   data: () => ({
     speakers,
     speakersList: [
-      'Illya_Klymov',
-      'Natalia_Tepluhina',
-      'Juho_Vepsäläinen',
-      'Tejas_Kumar',
-      'Rouben_Meschian',
-      'Gor_Rustamyan',
-      'Vardges_Vardanyan',
-      'Lilit_Tadevosyan',
-      'Aghasi_Lorsabyan',
-      'Shahen_Hovhannisyan',
-      'Hayk_Barseghyan',
-      'Varuzhan_Harutyunyan',
-      'Ruben_Sargsyan',
-      'Hrach_Mkrtchyan',
-      'Khachatur_Virabyan',
-      'Slavik_Manukyan',
-      'Nairi_Haroutiounian',
-      'Razmik_Bourtoutian',
-      'Hayk_Galstyan',
-      'Robert_Hanesoghlyan',
-      'Vova_Hayrapetyan',
-      'Narek_Ghevondian',
-      'Arnold_Dadayan',
-      'Ruben_Harutyunyan',
-      'Albert_Hovhannisyan',
+      'you',
     ],
   }),
   methods: {
