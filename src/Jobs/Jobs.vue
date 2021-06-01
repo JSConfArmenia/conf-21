@@ -21,12 +21,16 @@
       </div>
       <div class="col-md-4">    
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999742519834-senior-backend-software-engineer">
-            <h3 class="Vacancy">Senior Backend Software Engineer</h3>
+            <h3 class="Vacancy">Senior Backend Engineer</h3>
             <p class="Company">SuperAnnotate</p>
         </a>
         <a href="https://hexact.io/career">
             <h3 class="Vacancy">React.js Developer</h3>
             <p class="Company">Hexact, Inc.</p>
+        </a>
+        <a href="https://cauldron.app/jobs/60afa8685ec67a4bb266ed0d?c=1">
+            <h3 class="Vacancy">React.js Developer</h3>
+            <p class="Company">CoinStats</p>
         </a>
 
       </div>
@@ -36,8 +40,12 @@
             <p class="Company">Simply Technologies</p>
         </a>
         <a href="https://www.linkedin.com/jobs/view/2533543354/?refId=rabGHr0icxYLCViR948gNg%3D%3D&trackingId=ji4zFY%2FNGhoj9RZGNALmVQ%3D%3D&trk=d_flagship3_company">
-            <h3 class="Vacancy">Senior Front-end Software Engineer</h3>
+            <h3 class="Vacancy">Senior Front-end Engineer</h3>
             <p class="Company">MentorcliQ</p>
+        </a>
+        <a href="https://cauldron.app/jobs/60afa51c5ec67a4bb266ed03?c=1">
+            <h3 class="Vacancy">Node.js Developer</h3>
+            <p class="Company">CoinStats</p>
         </a>
 
       </div>
