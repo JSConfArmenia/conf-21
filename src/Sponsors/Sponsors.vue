@@ -48,11 +48,11 @@
               <h4 class="Name">Webb Fontaine</h4>
             </a>
           </div>
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-            <a class="Sponsor Sponsor-Brainstorm -gold" href="https://brainstormtech.io/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">Brainstorm Technologies</h4>
-            </a>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-Krisp -gold" href="https://krisp.ai/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">Krisp</h4>
+          </a>
           </div>
         </div>
       </section>
@@ -310,6 +310,11 @@ export default {
   &.Sponsor-PicsArt .Image {
     background-image: url('/sponsors/picsart.png');
     background-size: 240px;
+  }
+
+  &.Sponsor-Krisp .Image {
+    background-image: url('/sponsors/krisp.svg');
+    // background-size: 240px;
   }
 
   &.Sponsor-Hexact .Image {
