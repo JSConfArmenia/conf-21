@@ -64,7 +64,7 @@
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Coinstats -silver" href="https://coinstats.app/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">Coinstats</h4>
+              <h4 class="Name">CoinStats</h4>
             </a>
           </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
