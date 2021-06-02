@@ -54,6 +54,12 @@
             <h4 class="Name">Krisp</h4>
           </a>
           </div>
+         <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+            <a class="Sponsor Sponsor-Brainstorm -gold" href="https://brainstormtech.io/" target="_blank">
+              <div class="Image"></div>
+              <h4 class="Name">Brainstorm Technologies</h4>
+            </a>
+          </div>
         </div>
       </section>
       <section class="Section">
