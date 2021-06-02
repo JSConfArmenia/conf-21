@@ -9,7 +9,7 @@
     <Jobs />
     <Team />
     <Location />
-    <!-- <Faq /> -->
+    <Faq />
     <!-- <Quiz /> -->
     <AppFooter />
   </div>

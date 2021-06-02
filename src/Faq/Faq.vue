@@ -6,7 +6,7 @@
       <div class="col-md-6">
         <h3 class="Question">What is JavaScript Conference Armenia?</h3>
         <p class="Answer">
-          JS Conference is a big IT event that brings together a huge number of IT
+          JS Conf Armenia is a big IT event that brings together a huge number of IT
           professionals to attend talks, workshops, participate in
           competitions, get informed about open positions at sponsor IT companies and more.
         </p>
@@ -17,51 +17,54 @@
           <a href="#Speakers">click here</a>.
         </p>
 
-        <h3 class="Question">What are the talk topics?</h3>
+        <h3 class="Question">How to become a speaker?</h3>
+        <p class="Answer">
+          You can submit your topic <a href="bit.ly/speakJS2021">here</a>. DEADLINE: June 15.
+        </p>
+
+        <!-- <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
           To see the talk sessions timetable and topics, please
           <a href="#Schedule">click here</a>.
-        </p>
+        </p> -->
 
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
           The conference will be held mainly in Armenian but there are also
-          English talks included in the program.
+          English talks included in the program. 
         </p>
 
         <h3 class="Question">When is it going to take place?</h3>
         <p class="Answer">
-          The conference will take place from 10:00 to 18:00 on July 3, 2021.
+          The conference will take place from 9:00 to 18:00 on July 17, 2021.
         </p>
 
         <h3 class="Question">Where is it going to be held?</h3>
         <p class="Answer">
-          JavaScript Conference Yerevan will be held at the B Building of
+          JSConfAM21 will be held at
           <a href="https://goo.gl/maps/HmDBXyu3G9z" target="_blank">American University of Armenia</a>
           (40 Marshal Baghramyan Ave, Yerevan)․
         </p>
 
-        <h3 class="Question">How to participate?</h3>
-        <p class="Answer">
-          The entry of JS Conference Yerevan 2021 is invitation-only so
-          please make sure to request your invite
-          <a href="http://bit.ly/joinJSConf2021" target="_blank">here</a>.
-        </p>
 
       </div>
       <div class="col-md-6">
+        <h3 class="Question">How to participate?</h3>
+        <p class="Answer">
+          The tickets will be on sale in idram app really soon. Stay tuned.
+        </p>
 
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          The event entry is free of charge.
+          5000AMD (tax included).
         </p>
 
-        <h3 class="Question">When is the deadline for registration?</h3>
+        <!-- <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
           There is no deadline but the sooner you register the more
           interesting it will be for you as a participant as you will
           have the chance to take part in the preconference activities.
-        </p>
+        </p> -->
 
         <h3 class="Question">Who are behind the JS Conference Armenia? </h3>
         <p class="Answer">
@@ -71,22 +74,18 @@
 
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
-          Oh, thank you for your kindness.
-          To help us make the JavaScript Conference Armenia happen please <a href="http://bit.ly/kindninja21" target="_blank">apply here</a>
-          to become a JS Conf ninja volunteer!
+          Oh, thank you for your kindness. This year we are net accepting volunteer applications but share the word about the conf that will be appreciated. 
         </p>
 
-        <h3 class="Question">Who supports JS Conference Armenia?</h3>
+        <h3 class="Question">Who supports JS Conf Armenia?</h3>
         <p class="Answer">
           To learn about our sponsors and partners, please,
           <a href="#Sponsors">click here</a>.
         </p>
 
-        <h3 class="Question">Will I get a certificate of participation?</h3>
+        <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
-          Your certificate of participation in JS Conference is going to be
-          your larger network in IT, updated knowledge,
-          nice little gifts and good memories. Do you still need that piece of paper?
+          To request more info on JSConfAM21 sponsorship, <a href="http://bit.ly/supportJSConfAM21">click here</a>. DEADLINE: June 7.
         </p>
 
       </div>

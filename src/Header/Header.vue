@@ -30,7 +30,7 @@
         <a class="Item" href="#Jobs" v-smooth-scroll="navConfig" v-on:click="close">Jobs</a>
         <a class="Item" href="#Team" v-smooth-scroll="navConfig" v-on:click="close">Team</a>
         <a class="Item" href="#Location" v-smooth-scroll="navConfig" v-on:click="close">Location</a>
-        <!-- <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a> -->
+        <a class="Item" href="#Faq" v-smooth-scroll="navConfig" v-on:click="close">FAQ</a>
         <!-- <a class="Item" href="#Quiz" v-smooth-scroll="navConfig" v-on:click="close">Quiz</a> -->
         <!-- <a class="Item RequestInvite" href="http://bit.ly/joinJSConf2021" target="_blank" >Request an Invite</a> -->
       </nav>
