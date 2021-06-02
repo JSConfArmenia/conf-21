@@ -66,9 +66,9 @@
           have the chance to take part in the preconference activities.
         </p> -->
 
-        <h3 class="Question">Who are behind the JS Conference Armenia? </h3>
+        <h3 class="Question">Who are the organizers? </h3>
         <p class="Answer">
-          To see the JS Conference Armenia team, please,
+          To see JS Conf Armenia team, please,
           <a href="#Team">click here</a>.
         </p>
 

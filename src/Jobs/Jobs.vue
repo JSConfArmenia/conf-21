@@ -16,8 +16,10 @@
             <h3 class="Vacancy">Node.js Developer</h3>
             <p class="Company">Hexact, Inc.</p>
         </a>
-
-        
+        <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999751131041-senior-frontend-software-engineer">
+            <h3 class="Vacancy">Senior Frontend Engineer</h3>
+            <p class="Company">SuperAnnotate</p>
+        </a>        
       </div>
       <div class="col-md-4">    
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999742519834-senior-backend-software-engineer">
@@ -32,7 +34,10 @@
             <h3 class="Vacancy">React.js Developer</h3>
             <p class="Company">CoinStats</p>
         </a>
-
+        <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999742519834-senior-backend-software-engineer">
+            <h3 class="Vacancy">Senior Backend Engineer</h3>
+            <p class="Company">SuperAnnotate</p>
+        </a>
       </div>
       <div class="col-md-4">    
         <a href="https://www.simplytechnologies.net/careers/react-native-developer">
