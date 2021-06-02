@@ -74,7 +74,7 @@
 
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
-          Oh, thank you for your kindness. This year we are net accepting volunteer applications but share the word about the conf that will be appreciated. 
+          Oh, thank you for your kindness. This year we are not accepting volunteer applications but share the word about the conf that will be appreciated. 
         </p>
 
         <h3 class="Question">Who supports JS Conf Armenia?</h3>
