@@ -11,7 +11,7 @@
     <div class="SocialLinks">
       <a class="SocialIcon Icon-Github" href="https://github.com/JSConfArmenia/" target="_blank"></a>
       <a class="SocialIcon Icon-Facebook" href="https://www.facebook.com/jsconf.am/" target="_blank"></a>
-      <a class="SocialIcon Icon-Twitter" href="https://twitter.com/jsconf_am/" target="_blank"></a>
+      <a class="SocialIcon Icon-Twitter" href="https://twitter.com/JSConfAM" target="_blank"></a>
       <a class="SocialIcon Icon-Instagram" href="https://www.instagram.com/jsconf.am/" target="_blank"></a>
       <a class="SocialIcon Icon-YouTube" href="https://www.youtube.com/channel/UCkzEOKU959F6_T0OaQBH4VQ/featured" target="_blank"></a>
     </div>
