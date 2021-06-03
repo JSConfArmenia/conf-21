@@ -85,6 +85,12 @@
               <h4 class="Name">RenderForest</h4>
             </a>
           </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
+            <a class="Sponsor Sponsor-SDC -silver" href="https://sdc.am/" target="_blank">
+              <div class="Image"></div>
+              <h4 class="Name">SDC</h4>
+            </a>
+          </div>
           <!--
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Synergy -silver" href="https://www.synisys.com/" target="_blank">
@@ -356,6 +362,11 @@ export default {
 
   &.Sponsor-Renderforest .Image {
     background-image: url('/sponsors/renderforest.svg');
+    background-size: 150px;
+  }
+
+  &.Sponsor-SDC .Image {
+    background-image: url('/sponsors/sdc.svg');
     background-size: 150px;
   }
 
