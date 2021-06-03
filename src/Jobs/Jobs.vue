@@ -15,21 +15,21 @@
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999751131041-senior-frontend-software-engineer">
             <h3 class="Vacancy">Senior Frontend Engineer</h3>
             <p class="Company">SuperAnnotate</p>
-        </a>        
+        </a>
         <a href="https://jobs.krisp.ai/13632190e5dd4094bd39a0fa539f05f4">
             <h3 class="Vacancy">Senior Frontend Engineer II</h3>
             <p class="Company">Krisp</p>
-        </a>        
+        </a>
         <a href="https://sdc.am/career/6075e592c04ed00019997950">
             <h3 class="Vacancy">JavaScript Backend Engineer</h3>
             <p class="Company">SDC</p>
-        </a>        
+        </a>
       </div>
-      <div class="col-md-4"> 
+      <div class="col-md-4">
         <a href="https://www.simplytechnologies.net/careers/react-native-developer">
             <h3 class="Vacancy">Mid React Native Developer</h3>
             <p class="Company">Simply Technologies</p>
-        </a>   
+        </a>
         <a href="https://hexact.io/career">
             <h3 class="Vacancy">React.js Developer</h3>
             <p class="Company">Hexact, Inc.</p>
@@ -41,15 +41,13 @@
         <a href="https://jobs.krisp.ai/f00548600b3e454e8bf8ff1089faede8">
             <h3 class="Vacancy">Web Architect</h3>
             <p class="Company">Krisp</p>
-        </a>        
+        </a>
         <a href="https://sdc.am/career/60848a750b80670019ad682c">
             <h3 class="Vacancy">JavaScript Frontend Engineer</h3>
             <p class="Company">SDC</p>
         </a>
-        
-        
       </div>
-      <div class="col-md-4">    
+      <div class="col-md-4">
         <a href="https://www.simplytechnologies.net/careers/javascript-developer">
             <h3 class="Vacancy">Full-Stack JS Developer</h3>
             <p class="Company">Simply Technologies</p>

@@ -82,7 +82,7 @@
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Renderforest -silver" href="https://www.renderforest.com/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">RenderForest</h4>
+              <h4 class="Name">Renderforest</h4>
             </a>
           </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
