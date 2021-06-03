@@ -60,6 +60,12 @@
             <h4 class="Name">Krisp</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-EasyDMARC -gold" href="https://easydmarc.com/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">EasyDMARC</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -336,6 +342,11 @@ export default {
   &.Sponsor-Brainstorm .Image {
     background-image: url('/sponsors/brainstorm.svg');
     background-size: contain;
+  }
+
+  &.Sponsor-EasyDMARC .Image {
+    background-image: url('/sponsors/easydmarc.png');
+    background-size: 240px;
   }
 
   &.Sponsor-Coinstats .Image {
