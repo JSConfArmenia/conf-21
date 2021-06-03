@@ -8,6 +8,10 @@
             <h3 class="Vacancy">Senior Front-end Developer</h3>
             <p class="Company">Simply Technologies</p>
         </a>
+        <a href="https://www.simplytechnologies.net/careers/nodejs-developer">
+            <h3 class="Vacancy">Node.js Developer</h3>
+            <p class="Company">Simply Technologies</p>
+        </a>
         <a href="https://hexact.io/career">
             <h3 class="Vacancy">Node.js Developer</h3>
             <p class="Company">Hexact, Inc.</p>
