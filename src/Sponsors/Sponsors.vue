@@ -66,6 +66,12 @@
             <h4 class="Name">EasyDMARC</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-Flux -gold" href="https://fluxtech.me/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">Flux Technologies</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -221,7 +227,7 @@ export default {
 }
 
 .Section {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .Subtitle {
@@ -345,6 +351,11 @@ export default {
     background-size: 240px;
   }
 
+  &.Sponsor-Flux .Image {
+    background-image: url('/sponsors/flux.png');
+    background-size: contain;
+  }
+
   &.Sponsor-Brainstorm .Image {
     background-image: url('/sponsors/brainstorm.svg');
     background-size: contain;
@@ -357,17 +368,14 @@ export default {
 
   &.Sponsor-Coinstats .Image {
     background-image: url('/sponsors/coinstats.svg');
-    background-size: 120px;
   }
 
   &.Sponsor-Renderforest .Image {
     background-image: url('/sponsors/renderforest.svg');
-    background-size: 150px;
   }
 
   &.Sponsor-SDC .Image {
     background-image: url('/sponsors/sdc.svg');
-    background-size: 150px;
   }
 
 
