@@ -72,6 +72,18 @@
             <h4 class="Name">Flux Technologies</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-10Web -gold" href="https://10web.io/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">10Web</h4>
+          </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-Sololearn -gold" href="https://www.sololearn.com/home" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">Sololearn</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -351,6 +363,11 @@ export default {
     background-size: 240px;
   }
 
+  &.Sponsor-Sololearn .Image {
+    background-image: url('/sponsors/sololearn.svg');
+    background-size: 240px;
+  }
+
   &.Sponsor-Flux .Image {
     background-image: url('/sponsors/flux.png');
     background-size: contain;
@@ -359,6 +376,10 @@ export default {
   &.Sponsor-Brainstorm .Image {
     background-image: url('/sponsors/brainstorm.svg');
     background-size: contain;
+  }
+
+  &.Sponsor-10Web .Image {
+    background-image: url('/sponsors/10web.svg')
   }
 
   &.Sponsor-EasyDMARC .Image {
