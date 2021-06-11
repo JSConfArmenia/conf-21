@@ -144,14 +144,14 @@
               <div class="Image"></div>
               <h4 class="Name">Develandoo</h4>
             </a>
-          </div>
+          </div> -->
 
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Vineti -silver" href="https://vineti.com/" target="_blank">
               <div class="Image"></div>
               <h4 class="Name">Vineti</h4>
             </a>
-          </div> -->
+          </div> 
 
         </div>
       </section>
@@ -424,10 +424,10 @@ export default {
     background-image: url('/sponsors/simply.svg');
   }
 
-  // &.Sponsor-Vineti .Image {
-  //   background-image: url('/sponsors/vineti.png');
-  //   background-size: 129px;
-  // }
+  &.Sponsor-Vineti .Image {
+    background-image: url('/sponsors/vineti.png');
+    background-size: 129px;
+  }
 
   // &.Sponsor-Screenful .Image {
   //   background-image: url('/sponsors/screenful.png');
