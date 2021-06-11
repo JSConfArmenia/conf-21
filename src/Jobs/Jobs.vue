@@ -28,6 +28,26 @@
             <h3 class="Vacancy">JavaScript Backend Engineer</h3>
             <p class="Company">SDC</p>
         </a>
+        <a href="https://fluxtech.me/careers/?tab=senior-node-js-developer">
+            <h3 class="Vacancy">Senior Node.js Developer</h3>
+            <p class="Company">Flux Technologies</p>
+        </a>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109160">
+            <h3 class="Vacancy">Software Engineer /React/</h3>
+            <p class="Company">Adobe</p>
+        </a>
+        <a href="hhttps://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109159">
+            <h3 class="Vacancy">Software Engineer /Node.js/</h3>
+            <p class="Company">Adobe</p>
+        </a>
+        <a href="https://www.renderforest.com/careers/node-js-developer">
+            <h3 class="Vacancy">Node.js Developer</h3>
+            <p class="Company">Renderforest</p>
+        </a>
+        <a href="https://www.renderforest.com/careers/reactjs-engineer">
+            <h3 class="Vacancy">React.js Developer</h3>
+            <p class="Company">Renderforest</p>
+        </a>
       </div>
       <div class="col-md-4">
         <a href="https://www.simplytechnologies.net/careers/react-native-developer">
@@ -50,6 +70,26 @@
             <h3 class="Vacancy">JavaScript Frontend Engineer</h3>
             <p class="Company">SDC</p>
         </a>
+        <a href="https://fluxtech.me/careers/?tab=vue-js-developer">
+            <h3 class="Vacancy">Vue.js Developer</h3>
+            <p class="Company">Flux Technologies</p>
+        </a>
+        <a href="https://fluxtech.me/careers/?tab=senior-java-script-developer">
+            <h3 class="Vacancy">Lead JS Developer</h3>
+            <p class="Company">Flux Technologies</p>
+        </a>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer---Developer-Productivity_R110213-1">
+            <h3 class="Vacancy">Senior Software Engineer - Developer Productivity /Node.js/ </h3>
+            <p class="Company">Adobe</p>
+        </a>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer---Developer-Productivity_R111578-1">
+            <h3 class="Vacancy">Senior Software Engineer - Developer Productivity /Node.js/ </h3>
+            <p class="Company">Adobe</p>
+        </a>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer_R109154-1">
+            <h3 class="Vacancy">Senior Front-end Software Engineer /React/</h3>
+            <p class="Company">Adobe</p>
+        </a>
       </div>
       <div class="col-md-4">
         <a href="https://www.simplytechnologies.net/careers/javascript-developer">
@@ -71,6 +111,22 @@
         <a href="https://cauldron.app/jobs/60afa8685ec67a4bb266ed0d?c=1">
             <h3 class="Vacancy">React.js Developer</h3>
             <p class="Company">CoinStats</p>
+        </a>
+        <a href="https://fluxtech.me/careers/?tab=angular-developer">
+            <h3 class="Vacancy">Angular 2.X+ Developer</h3>
+            <p class="Company">Flux Technologies</p>
+        </a>
+        <a href="https://boards.greenhouse.io/vineti/jobs/4432956003">
+            <h3 class="Vacancy">Application Support Engineer</h3>
+            <p class="Company">Vineti</p>
+        </a>
+        <a href="https://boards.greenhouse.io/vineti/jobs/4485746003">
+            <h3 class="Vacancy">Senior Manager, Software Engineering</h3>
+            <p class="Company">Vineti</p>
+        </a>
+        <a href="https://boards.greenhouse.io/vineti/jobs/4404443003">
+            <h3 class="Vacancy">Senior Software Engineer</h3>
+            <p class="Company">Vineti</p>
         </a>
       </div>
     </div>
