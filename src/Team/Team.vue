@@ -37,7 +37,7 @@ export default {
       {
         img: '/team/Varser_Zakaryan.jpeg',
         name: 'Varser Zakaryan',
-        position: 'Project Manager at JavaScript Conference Armenia',
+        position: 'Co-founder, CEO at Tech Events Armenia',
       },
       {
         img: '/team/Gevorg_Harutyunyan.jpg',
