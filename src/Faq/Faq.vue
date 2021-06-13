@@ -19,7 +19,7 @@
 
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          You can submit your topic <a href="bit.ly/speakJS2021">here</a>. DEADLINE: June 15.
+          You can submit your topic <a href="bit.ly/speakJS2021">here</a>. DEADLINE: June 18.
         </p>
 
         <!-- <h3 class="Question">What are the talk topics?</h3>
@@ -30,8 +30,7 @@
 
         <h3 class="Question">What is the conference language?</h3>
         <p class="Answer">
-          The conference will be held mainly in Armenian but there are also
-          English talks included in the program. 
+          The conference will be held in Armenian, English and Russian.
         </p>
 
         <h3 class="Question">When is it going to take place?</h3>
@@ -74,7 +73,7 @@
 
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
-          Oh, thank you for your kindness. This year we are not accepting volunteer applications but share the word about the conf that will be appreciated. 
+          Oh, thank you for your kindness. This year we are not accepting volunteer applications but share the word about the conf that will be appreciated.
         </p>
 
         <h3 class="Question">Who supports JS Conf Armenia?</h3>
@@ -85,9 +84,7 @@
 
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
-          To request more info on JSConfAM21 sponsorship, <a href="http://bit.ly/supportJSConfAM21">click here</a>. DEADLINE: June 7.
-        </p>
-
+          The call for JSConfAM21 sponsors is already closed.
       </div>
     </div>
 
