@@ -16,6 +16,10 @@
             <h3 class="Vacancy">Node.js Developer</h3>
             <p class="Company">Hexact, Inc.</p>
         </a>
+        <a href="https://brainstormtech.io/careers/vacancy-lead-front-end-developer">
+            <h3 class="Vacancy">Lead Frontend Developer</h3>
+            <p class="Company">Brainstorm Technologies</p>
+        </a>
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999751131041-senior-frontend-software-engineer">
             <h3 class="Vacancy">Senior Frontend Engineer</h3>
             <p class="Company">SuperAnnotate</p>
@@ -61,6 +65,10 @@
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999742519834-senior-backend-software-engineer">
             <h3 class="Vacancy">Senior Backend Engineer</h3>
             <p class="Company">SuperAnnotate</p>
+        </a>
+        <a href="https://brainstormtech.io/careers/careers-react-native-react">
+            <h3 class="Vacancy">React Native Developer</h3>
+            <p class="Company">Brainstorm Technologies</p>
         </a>
         <a href="https://jobs.krisp.ai/f00548600b3e454e8bf8ff1089faede8">
             <h3 class="Vacancy">Web Architect</h3>
