@@ -100,6 +100,10 @@
             <h3 class="Vacancy">Senior Front-end Engineer</h3>
             <p class="Company">MentorcliQ</p>
         </a>
+        <a href="https://brainstormtech.io/careers/node-js-developer">
+          <h3 class="Vacancy">Node.js Developer</h3>
+          <p class="Company">Brainstorm Technologies</p>
+        </a>
         <a href="https://jobs.krisp.ai/3f8a35e3a4c24addaaccfecfdf24b57d">
             <h3 class="Vacancy">Senior Backend Engineer II</h3>
             <p class="Company">Krisp</p>

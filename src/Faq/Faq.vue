@@ -85,6 +85,7 @@
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
           The call for JSConfAM21 sponsors is already closed.
+        </p>
       </div>
     </div>
 
