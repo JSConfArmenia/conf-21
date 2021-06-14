@@ -121,38 +121,21 @@
               <h4 class="Name">Relcu</h4>
             </a>
           </div>
-          <!--
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Synergy -silver" href="https://www.synisys.com/" target="_blank">
+            <a class="Sponsor Sponsor-Ameria -silver" href="https://ameriabank.am/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">Synergy</h4>
+              <h4 class="Name">Ameriabank</h4>
             </a>
           </div>
 
-
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-DF -silver" href="http://digitalfactory.co/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">Digital Factory</h4>
-            </a>
-          </div>
-
-          <div class="HR d-none  d-sm-none d-md-block d-lg-block d-xl-block"></div>
-
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Develandoo -silver" href="https://develandoo.com/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">Develandoo</h4>
-            </a>
-          </div> -->
+          <!-- <div class="HR d-none  d-sm-none d-md-block d-lg-block d-xl-block"></div> -->
 
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Vineti -silver" href="https://vineti.com/" target="_blank">
               <div class="Image"></div>
               <h4 class="Name">Vineti</h4>
             </a>
-          </div> 
-
+          </div>
         </div>
       </section>
 <!--
@@ -409,6 +392,10 @@ export default {
 
   &.Sponsor-Renderforest .Image {
     background-image: url('/sponsors/renderforest.svg');
+  }
+
+  &.Sponsor-Ameria .Image {
+    background-image: url('/sponsors/ameriabank.png');
   }
 
   &.Sponsor-SDC .Image {
