@@ -50,12 +50,12 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The tickets will be on sale in idram app really soon. Stay tuned.
+          The registration will open soon. Stay tuned.
         </p>
 
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
-          5000AMD (tax included).
+          The invitation ticket is free of charge.
         </p>
 
         <!-- <h3 class="Question">When is the deadline for registration?</h3>
