@@ -14,6 +14,7 @@
       <a class="SocialIcon Icon-Twitter" href="https://twitter.com/JSConfAM" target="_blank"></a>
       <a class="SocialIcon Icon-Instagram" href="https://www.instagram.com/jsconf.am/" target="_blank"></a>
       <a class="SocialIcon Icon-YouTube" href="https://www.youtube.com/channel/UCkzEOKU959F6_T0OaQBH4VQ/featured" target="_blank"></a>
+      <a class="SocialIcon Icon-Telegram" href="https://t.me/jsconfarmenia" target="_blank"></a>
     </div>
 
     <!-- <div class="PressRelease">
@@ -126,6 +127,9 @@ export default {
   background-image: url('./youtube.png');
 }
 
+.Icon-Telegram {
+  background-image: url('./telegram.png');
+}
 .Credits {
   margin: 20px;
   font-size: .8em;

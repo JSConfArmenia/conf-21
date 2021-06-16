@@ -35,14 +35,14 @@
 
         <h3 class="Question">When is it going to take place?</h3>
         <p class="Answer">
-          The conference will take place from 9:00 to 18:00 on July 17, 2021.
+          The conference will take place from 9:00 to 20:00 on July 24, 2021.
         </p>
 
         <h3 class="Question">Where is it going to be held?</h3>
         <p class="Answer">
           JSConfAM21 will be held at
-          <a href="https://goo.gl/maps/HmDBXyu3G9z" target="_blank">American University of Armenia</a>
-          (40 Marshal Baghramyan Ave, Yerevan)․
+          <a href="https://goo.gl/maps/6onRXgzvNzx2EBgv6" target="_blank">Sundukyan State Academic Theatre</a>
+          (6 Grigor Lusavorich Street, Yerevan)․
         </p>
 
 
@@ -50,7 +50,7 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-          The registration will open soon. Stay tuned.
+          The entry is invite-only. The application for invitation request will open soon. Stay tuned.
         </p>
 
         <h3 class="Question">How much is the entry-ticket?</h3>
