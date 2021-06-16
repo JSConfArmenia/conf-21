@@ -24,7 +24,7 @@
             <h3 class="Vacancy">Senior Frontend Engineer</h3>
             <p class="Company">SuperAnnotate</p>
         </a>
-        <a href="https://jobs.krisp.ai/13632190e5dd4094bd39a0fa539f05f4" target="_blank">
+        <a href="https://jobs.krisp.ai/b6a95a0c75b54c77bcc9028a3af4a2b6" target="_blank">
             <h3 class="Vacancy">Senior Frontend Engineer II</h3>
             <p class="Company">Krisp</p>
         </a>
@@ -139,6 +139,10 @@
         <a href="https://boards.greenhouse.io/vineti/jobs/4404443003" target="_blank">
             <h3 class="Vacancy">Senior Software Engineer</h3>
             <p class="Company">Vineti</p>
+        </a>
+        <a href="https://jobs.krisp.ai/4dbaf677237945ec9df4f52f419e3e3b" target="_blank">
+            <h3 class="Vacancy">Fullstack Engineer II</h3>
+            <p class="Company">Krisp</p>
         </a>
       </div>
     </div>
