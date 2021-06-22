@@ -90,6 +90,24 @@
             <h4 class="Name">Adobe</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-Digitain -gold" href="https://www.digitain.com/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">Digitain</h4>
+          </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-SPro -gold" href="https://s-pro.io/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">S-Pro</h4>
+          </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-Energaming -gold" href="https://www.linkedin.com/company/nrgaming/about/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">Energaming</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -189,13 +207,12 @@
             </a>
           </div>
         </div>
-      </section> -->
-
+      </section>
       <div class="CallToActionContainer">
         <a href="http://bit.ly/supportJSConfAM21" class="Button -call-to-action -small" target="_blank">
           Become a sponsor!
         </a>
-      </div>
+      </div> -->
     </div>
 
     <div class="SponsorsBgTop"></div>
@@ -355,6 +372,20 @@ export default {
 
   &.Sponsor-WebbFontaine .Image {
     background-image: url('/sponsors/webbfontaine.svg');
+    background-size: 240px;
+  }
+
+  &.Sponsor-Digitain .Image {
+    background-image: url('/sponsors/digitain.svg');
+    background-size: 240px;
+  }
+
+  &.Sponsor-SPro .Image {
+    background-image: url('/sponsors/s-pro.svg');
+  }
+
+  &.Sponsor-Energaming .Image {
+    background-image: url('/sponsors/nrgaming.svg');
     background-size: 240px;
   }
 
