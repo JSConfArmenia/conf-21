@@ -188,7 +188,7 @@
             </a>
           </div>
         </div>
-      </section> 
+      </section>
       <section class="Section">
         <h3 class="Subtitle">Partners and friends</h3>
 
@@ -362,7 +362,6 @@ export default {
 
   &.Sponsor-Krisp .Image {
     background-image: url('/sponsors/krisp.svg');
-    // background-size: 240px;
   }
 
   &.Sponsor-Hexact .Image {
@@ -386,7 +385,7 @@ export default {
 
   &.Sponsor-Energaming .Image {
     background-image: url('/sponsors/nrgaming.svg');
-    background-size: 240px;
+    // background-size: 240px;
   }
 
   &.Sponsor-Sololearn .Image {
