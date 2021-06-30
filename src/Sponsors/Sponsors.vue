@@ -108,6 +108,12 @@
             <h4 class="Name">Energaming</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-EPAM -gold" href="https://www.epam.com/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">EPAM Systems</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -385,6 +391,11 @@ export default {
 
   &.Sponsor-Energaming .Image {
     background-image: url('/sponsors/nrgaming.svg');
+    // background-size: 240px;
+  }
+
+  &.Sponsor-EPAM .Image {
+    background-image: url('/sponsors/epam.png');
     // background-size: 240px;
   }
 
