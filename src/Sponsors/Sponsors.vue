@@ -105,7 +105,7 @@
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Energaming -gold" href="https://www.linkedin.com/company/nrgaming/about/" target="_blank">
             <div class="Image"></div>
-            <h4 class="Name">Energaming</h4>
+            <h4 class="Name">NRGaming</h4>
           </a>
           </div>
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
