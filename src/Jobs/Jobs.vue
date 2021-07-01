@@ -21,7 +21,7 @@
             <h3 class="Vacancy">React.js Developer</h3>
             <p class="Company">Hexact, Inc.</p>
         </a>
-        <a href="https://www.linkedin.com/jobs/view/2533543354/?refId=rabGHr0icxYLCViR948gNg%3D%3D&trackingId=ji4zFY%2FNGhoj9RZGNALmVQ%3D%3D&trk=d_flagship3_company" target="_blank">
+        <a href="https://www.linkedin.com/jobs/view/2586297343/?refId=2b4ks033NqiaXZMtGDEUlg%3D%3D&trackingId=%2BSuB4SwtKuwZM3TBvM7JCg%3D%3D" target="_blank">
             <h3 class="Vacancy">Senior Front-end Engineer</h3>
             <p class="Company">MentorcliQ</p>
         </a>
