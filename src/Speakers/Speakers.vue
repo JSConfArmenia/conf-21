@@ -37,6 +37,7 @@ export default {
     speakers,
     speakersList: [
       'suren',
+      'sandro',
       'lilit',
       'davit',
       'hrach',

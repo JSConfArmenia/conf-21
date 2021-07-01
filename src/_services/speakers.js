@@ -23,5 +23,10 @@ export default {
     img: '/speakers/you.jpg',
     name: 'Someone Like You',
     position: 'More names coming soon',
-  }
+  },
+  sandro: {
+    img: '/speakers/sandro.png',
+    name: 'Sandro Dolidze',
+    position: 'Co-founder & CTO at Talent Cloud',
+  },
 };
