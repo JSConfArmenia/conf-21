@@ -19,11 +19,11 @@
           </div>
         </div>
       </div>
-      <div class="CallToActionContainer">
+      <!-- <div class="CallToActionContainer">
         <a href="https://bit.ly/speakJS2021" class="Button -call-to-action" target="_blank">
           Become a Ninja!
         </a>
-      </div>
+      </div> -->
     </div>
     <div class="SpeakersBg"></div>
   </section>
@@ -36,7 +36,11 @@ export default {
   data: () => ({
     speakers,
     speakersList: [
-      'you',
+      'suren',
+      'lilit',
+      'davit',
+      'hrach',
+      'someone',
     ],
   }),
   methods: {

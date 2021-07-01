@@ -10,7 +10,6 @@
           professionals to attend talks, workshops, participate in
           competitions, get informed about open positions at sponsor IT companies and more.
         </p>
-        
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
           JSConfAM21 will be held on July 24, 2021, from 9:00 to 20:00 at

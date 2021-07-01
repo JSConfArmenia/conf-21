@@ -1,7 +1,27 @@
 export default {
-  you: {
+  suren: {
+    img: '/speakers/suren.jpeg',
+    name: 'Suren Gasparyan',
+    position: 'Principal Engineer, Tech Lead at Krisp',
+  },
+  lilit: {
+    img: '/speakers/lilit.jpg',
+    name: 'Lilit Tadevosyan',
+    position: 'Senior Computer Scientist at Adobe',
+  },
+  davit: {
+    img: '/speakers/davit.jpg',
+    name: 'Davit Abgaryan',
+    position: 'Software Engineering Team Lead at SuperAnnotate',
+  },
+  hrach: {
+    img: '/speakers/hrach.jpg',
+    name: 'Hrach Mkrtchyan',
+    position: 'Lead Frontend Engineer at Renderforest',
+  },
+  someone: {
     img: '/speakers/you.jpg',
-    name: 'Maybe You?',
-    position: 'who has knowledge to share',
+    name: 'Someone Like You',
+    position: 'More names coming soon',
   }
 };
