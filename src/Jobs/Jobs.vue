@@ -37,7 +37,7 @@
             <h3 class="Vacancy">Vue.js Developer</h3>
             <p class="Company">Flux Technologies</p>
         </a>
-        <a href="https://cauldron.app/jobs/60afa8685ec67a4bb266ed0d?c=1" target="_blank">
+        <a href="https://cauldron.app/jobs/60deaf59f49b3f42481fe0d9" target="_blank">
             <h3 class="Vacancy">React.js Developer</h3>
             <p class="Company">CoinStats</p>
         </a>
