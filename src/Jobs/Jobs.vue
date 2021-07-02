@@ -147,6 +147,10 @@
             <h3 class="Vacancy">Senior Node.js Engineer</h3>
             <p class="Company">EPAM Systems</p>
         </a>
+        <a href="https://ats.hirebee.ai/en/jobs/backend-engineer-45" target="_blank">
+            <h3 class="Vacancy">Senior Backend Engineer</h3>
+            <p class="Company">EasyDMARC</p>
+        </a>
       </div>
       <div class="col-md-4">
         <!-- Fullstack, Mobile & More -->
