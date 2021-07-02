@@ -77,6 +77,22 @@
             <h3 class="Vacancy">Senior Software Engineer (React.JS, Redux)</h3>
             <p class="Company">EPAM Systems</p>
         </a>
+        <a href="https://picsart.com/job/4032320004?gh_jid=4032320004" target="_blank">
+            <h3 class="Vacancy">Senior Javascript Engineer, Web Integrations</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4006660004?gh_jid=4006660004" target="_blank">
+            <h3 class="Vacancy">Senior Javascript Engineer, Growth</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4034330004?gh_jid=4034330004" target="_blank">
+            <h3 class="Vacancy">Senior Javascript Engineer, Editor</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4010858004?gh_jid=4010858004" target="_blank">
+            <h3 class="Vacancy">Javascript Engineer, Growth</h3>
+            <p class="Company">Picsart</p>
+        </a>
       </div>
       <div class="col-md-4">
       <!-- Backend -->
@@ -151,6 +167,22 @@
             <h3 class="Vacancy">Senior Backend Engineer</h3>
             <p class="Company">EasyDMARC</p>
         </a>
+        <a href="https://picsart.com/job/4008126004?gh_jid=4008126004" target="_blank">
+            <h3 class="Vacancy">Senior Backend Engineer, Enterprise</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4009903004?gh_jid=4009903004" target="_blank">
+            <h3 class="Vacancy">Backend Engineer, Search API</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4034319004?gh_jid=4034319004" target="_blank">
+            <h3 class="Vacancy">Javascript Engineer, Editor</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4006704004?gh_jid=4006704004" target="_blank">
+            <h3 class="Vacancy">Frontend Engineer, Data Infrastructure (Angular)</h3>
+            <p class="Company">Picsart</p>
+        </a>
       </div>
       <div class="col-md-4">
         <!-- Fullstack, Mobile & More -->
@@ -221,6 +253,18 @@
         <a href="https://www.epam.com/careers/job-listings/job.55603.javascript-engineer_yerevan_armenia" target="_blank">
             <h3 class="Vacancy">JavaScript Developer</h3>
             <p class="Company">EPAM Systems</p>
+        </a>
+        <a href="https://picsart.com/job/4006864004?gh_jid=4006864004" target="_blank">
+            <h3 class="Vacancy">Full Stack JavaScript Engineer, CMS</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4006856004?gh_jid=4006856004" target="_blank">
+            <h3 class="Vacancy">Senior Full Stack JavaScript Engineer, CMS</h3>
+            <p class="Company">Picsart</p>
+        </a>
+        <a href="https://picsart.com/job/4021860004?gh_jid=4021860004" target="_blank">
+            <h3 class="Vacancy">Javascript Engineer, Content Ingestion</h3>
+            <p class="Company">Picsart</p>
         </a>
       </div>
     </div>
