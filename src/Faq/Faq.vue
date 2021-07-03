@@ -44,7 +44,8 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-        The entry is invite-only. The application for invitation request will open soon. Stay tuned.
+        The entry is invite-only. To request an invitation for participation, please,
+        <a href="https://bit.ly/joinJSConfAM21" target="_blank">click here</a>.
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
@@ -56,11 +57,11 @@
         </p>
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">
-        This year we are not accepting volunteer applications but share the word about the conf that will be appreciated.
+        This year we are not accepting volunteer applications but you can share the word about the conf that will be appreciated.
         </p>
         <h3 class="Question">How to become a speaker?</h3>
         <p class="Answer">
-          Call for speakers is already closed.
+          The call for JSConfAM21 speakers is already closed.
         </p>
         <h3 class="Question">How to become a sponsor?</h3>
         <p class="Answer">
