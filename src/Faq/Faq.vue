@@ -12,7 +12,7 @@
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
-          JSConfAM21 will be held on July 24, 2021, from 9:00 to 20:00 at
+          JSConfAM21 will be held on October 23, 2021, from 9:00 to 19:00 at
           <a href="https://goo.gl/maps/6onRXgzvNzx2EBgv6" target="_blank">Sundukyan State Academic Theatre</a>
           (6 Grigor Lusavorich Street, Yerevan).
         </p>
