@@ -143,7 +143,7 @@
             <h3 class="Vacancy">Senior Backend Engineer II</h3>
             <p class="Company">Krisp</p>
         </a>
-        <a href="hhttps://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109159" target="_blank">
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109159" target="_blank">
             <h3 class="Vacancy">Software Engineer /Node.js/</h3>
             <p class="Company">Adobe</p>
         </a>
