@@ -49,7 +49,7 @@
             <h3 class="Vacancy">Senior Frontend Engineer II</h3>
             <p class="Company">Krisp</p>
         </a>
-        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109160" target="_blank">
+        <!-- <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109160" target="_blank">
             <h3 class="Vacancy">Software Engineer /React/</h3>
             <p class="Company">Adobe</p>
         </a>
@@ -60,7 +60,7 @@
         <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer_R109154-1" target="_blank">
             <h3 class="Vacancy">Senior Front-end Software Engineer /React/</h3>
             <p class="Company">Adobe</p>
-        </a>
+        </a> -->
         <a href="https://www.digitain.com/vacancy/javascript-developer/" target="_blank">
             <h3 class="Vacancy">JavaScript Developer</h3>
             <p class="Company">Digitain</p>
@@ -143,7 +143,7 @@
             <h3 class="Vacancy">Senior Backend Engineer II</h3>
             <p class="Company">Krisp</p>
         </a>
-        <a href="hhttps://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109159" target="_blank">
+        <!-- <a href="hhttps://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109159" target="_blank">
             <h3 class="Vacancy">Software Engineer /Node.js/</h3>
             <p class="Company">Adobe</p>
         </a>
@@ -154,7 +154,7 @@
         <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer---Developer-Productivity_R111578-1" target="_blank">
             <h3 class="Vacancy">Senior Software Engineer - Developer Productivity /Node.js/ </h3>
             <p class="Company">Adobe</p>
-        </a>
+        </a> -->
         <a href="https://jobs.dou.ua/companies/s-pro/vacancies/151460/" target="_blank">
             <h3 class="Vacancy">Backend Node.js Developer (Remote)</h3>
             <p class="Company">S-Pro</p>
