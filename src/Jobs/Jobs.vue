@@ -49,15 +49,15 @@
             <h3 class="Vacancy">Senior Frontend Engineer II</h3>
             <p class="Company">Krisp</p>
         </a>
-        <!-- <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109160" target="_blank">
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Development-Engineer_R112607-1" target="_blank">
             <h3 class="Vacancy">Software Engineer /React/</h3>
             <p class="Company">Adobe</p>
         </a>
-        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer_R109154-1" target="_blank">
-            <h3 class="Vacancy">Senior Front-end Software Engineer /React/</h3>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer_R112707-1" target="_blank">
+            <h3 class="Vacancy">Senior Software Engineer /React/</h3>
             <p class="Company">Adobe</p>
         </a>
-        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer_R109154-1" target="_blank">
+        <!-- <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer_R109154-1" target="_blank">
             <h3 class="Vacancy">Senior Front-end Software Engineer /React/</h3>
             <p class="Company">Adobe</p>
         </a> -->
@@ -143,15 +143,15 @@
             <h3 class="Vacancy">Senior Backend Engineer II</h3>
             <p class="Company">Krisp</p>
         </a>
-        <!-- <a href="hhttps://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer-ll_R109159" target="_blank">
-            <h3 class="Vacancy">Software Engineer /Node.js/</h3>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer---Developer-Productivity_R110213-2" target="_blank">
+            <h3 class="Vacancy">Senior Software Engineer /Node.js/</h3>
             <p class="Company">Adobe</p>
         </a>
-        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Senior-Software-Engineer---Developer-Productivity_R110213-1" target="_blank">
-            <h3 class="Vacancy">Senior Software Engineer - Developer Productivity /Node.js/ </h3>
+        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer---Developer-Productivity_R111578-2" target="_blank">
+            <h3 class="Vacancy">Software Engineer /Node.js/ </h3>
             <p class="Company">Adobe</p>
         </a>
-        <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer---Developer-Productivity_R111578-1" target="_blank">
+        <!-- <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Yerevan/Software-Engineer---Developer-Productivity_R111578-1" target="_blank">
             <h3 class="Vacancy">Senior Software Engineer - Developer Productivity /Node.js/ </h3>
             <p class="Company">Adobe</p>
         </a> -->
