@@ -40,8 +40,12 @@ export default {
       'sandro',
       'lilit',
       'davit',
+      'elmira',
       'hrach',
-      'someone',
+      'david',
+      'armen',
+      'nairi',
+      'varuzhan',
     ],
   }),
   methods: {

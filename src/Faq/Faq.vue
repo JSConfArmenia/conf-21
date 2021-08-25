@@ -53,7 +53,7 @@
         </p>
         <h3 class="Question">When is the deadline for registration?</h3>
         <p class="Answer">
-        The last batch of invitation tickets will be sent on July 23 at 22:00. Make sure to request your ticket before that.
+        The last batch of invitation tickets will be sent on October 22 at 22:00. Make sure to request your ticket before that.
         </p>
         <h3 class="Question">How can I help the team?</h3>
         <p class="Answer">

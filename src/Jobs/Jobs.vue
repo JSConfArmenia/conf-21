@@ -9,10 +9,6 @@
             <h3 class="Vacancy">Senior Front-end Developer</h3>
             <p class="Company">Simply Technologies</p>
         </a>
-        <a href="https://brainstormtech.io/careers/vacancy-lead-front-end-developer" target="_blank">
-            <h3 class="Vacancy">Lead Frontend Developer</h3>
-            <p class="Company">Brainstorm Technologies</p>
-        </a>
         <a href="https://jobs.smartrecruiters.com/SuperAnnotate/743999751131041-senior-frontend-software-engineer" target="_blank">
             <h3 class="Vacancy">Senior Frontend Engineer</h3>
             <p class="Company">SuperAnnotate</p>
@@ -100,20 +96,12 @@
             <h3 class="Vacancy">Mid React Native Developer</h3>
             <p class="Company">Simply Technologies</p>
         </a>
-        <a href="https://brainstormtech.io/careers/careers-react-native-react" target="_blank">
-            <h3 class="Vacancy">React Native Developer</h3>
-            <p class="Company">Brainstorm Technologies</p>
-        </a>
         <a href="https://jobs.dou.ua/companies/s-pro/vacancies/91381/" target="_blank">
             <h3 class="Vacancy">React Native Developer (Remote) </h3>
             <p class="Company">S-Pro</p>
         </a><a href="https://www.simplytechnologies.net/careers/nodejs-developer" target="_blank">
             <h3 class="Vacancy">Node.js Developer</h3>
             <p class="Company">Simply Technologies</p>
-        </a>
-        <a href="https://brainstormtech.io/careers/node-js-developer" target="_blank">
-          <h3 class="Vacancy">Node.js Developer</h3>
-          <p class="Company">Brainstorm Technologies</p>
         </a>
         <a href="https://hexact.io/career" target="_blank">
             <h3 class="Vacancy">Node.js Developer</h3>
