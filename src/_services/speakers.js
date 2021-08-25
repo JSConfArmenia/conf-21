@@ -25,7 +25,7 @@ export default {
     position: 'More names coming soon',
   },
   sandro: {
-    img: '/speakers/sandro.png',
+    img: '/speakers/sandro.jpg',
     name: 'Sandro Dolidze',
     position: 'Co-founder & CTO at Talent Cloud',
   },
