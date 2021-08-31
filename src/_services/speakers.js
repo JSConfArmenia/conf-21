@@ -59,4 +59,9 @@ export default {
     name: 'Armen Sahakyan',
     position: 'Staff Engineer at MentorcliQ',
   },
+  mike: {
+    img: '/speakers/mike.jpeg',
+    name: 'Mike Tevanyan',
+    position: 'Senior Software Engineer at MentorcliQ',
+  },
 };
