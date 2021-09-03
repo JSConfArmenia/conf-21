@@ -64,4 +64,9 @@ export default {
     name: 'Mike Tevanyan',
     position: 'Senior Software Engineer at MentorcliQ',
   },
+  khachatur: {
+    img: '/speakers/khachatur.jpeg',
+    name: 'Khachatur Virabyan',
+    position: 'Software Engineer at Imgly',
+  },
 };

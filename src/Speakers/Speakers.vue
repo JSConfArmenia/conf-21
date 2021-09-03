@@ -47,6 +47,7 @@ export default {
       'nairi',
       'varuzhan',
       'mike',
+      'khachatur',
     ],
   }),
   methods: {
