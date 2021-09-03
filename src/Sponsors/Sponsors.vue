@@ -140,12 +140,6 @@
             </a>
           </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Relcu -silver" href="https://www.relcu.com/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">Relcu</h4>
-            </a>
-          </div>
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Ameria -silver" href="https://ameriabank.am/" target="_blank">
               <div class="Image"></div>
               <h4 class="Name">Ameriabank</h4>
@@ -442,11 +436,6 @@ export default {
   &.Sponsor-SDC .Image {
     background-image: url('/sponsors/sdc.svg');
   }
-
-  &.Sponsor-Relcu .Image {
-    background-image: url('/sponsors/relcu.png');
-  }
-
 
   &.Sponsor-Simply .Image {
     background-image: url('/sponsors/simply.svg');
