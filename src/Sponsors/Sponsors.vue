@@ -48,22 +48,10 @@
               <h4 class="Name">Webb Fontaine</h4>
             </a>
           </div>
-         <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-            <a class="Sponsor Sponsor-Brainstorm -gold" href="https://brainstormtech.io/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">Brainstorm Technologies</h4>
-            </a>
-          </div> -->
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
           <a class="Sponsor Sponsor-Krisp -gold" href="https://krisp.ai/" target="_blank">
             <div class="Image"></div>
             <h4 class="Name">Krisp</h4>
-          </a>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-          <a class="Sponsor Sponsor-EasyDMARC -gold" href="https://easydmarc.com/" target="_blank">
-            <div class="Image"></div>
-            <h4 class="Name">EasyDMARC</h4>
           </a>
           </div>
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
@@ -100,12 +88,6 @@
           <a class="Sponsor Sponsor-SPro -gold" href="https://s-pro.io/" target="_blank">
             <div class="Image"></div>
             <h4 class="Name">S-Pro</h4>
-          </a>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
-          <a class="Sponsor Sponsor-Energaming -gold" href="https://www.linkedin.com/company/nrgaming/about/" target="_blank">
-            <div class="Image"></div>
-            <h4 class="Name">NRGaming</h4>
           </a>
           </div>
           <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
@@ -165,26 +147,6 @@
             <a class="Sponsor Sponsor-Armsoft -starter" href="http://www.armsoft.am/" target="_blank">
               <div class="Image"></div>
               <h4 class="Name">ArmSoft</h4>
-            </a>
-          </div>
-          <div class="col-6 col-sm-8 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-IUNetworks -starter" href="https://www.iunetworks.am/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">IU Networks</h4>
-            </a>
-          </div>
-
-          <div class="col-6 col-sm-8 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Screenful -starter" href="https://screenful.com/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">Screenful</h4>
-            </a>
-          </div>
-
-          <div class="col-6 col-sm-8 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-EventGeek -starter" href="https://www.eventgeek.com/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">EventGeek</h4>
             </a>
           </div>
         </div>
@@ -383,11 +345,6 @@ export default {
     background-image: url('/sponsors/s-pro.svg');
   }
 
-  &.Sponsor-Energaming .Image {
-    background-image: url('/sponsors/nrgaming.svg');
-    // background-size: 240px;
-  }
-
   &.Sponsor-EPAM .Image {
     background-image: url('/sponsors/epam.png');
     // background-size: 240px;
@@ -414,11 +371,6 @@ export default {
 
   &.Sponsor-Adobe .Image {
     background-image: url('/sponsors/adobe.svg')
-  }
-
-  &.Sponsor-EasyDMARC .Image {
-    background-image: url('/sponsors/easydmarc.png');
-    background-size: 240px;
   }
 
   &.Sponsor-Coinstats .Image {
