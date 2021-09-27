@@ -12,10 +12,10 @@
     "deployMainHttps": "npm run build && echo jsconf.am > ./dist/CNAME && gh-pages -d dist --repo https://github.com/JSConfArmenia/jsconf.am.git --branch gh-pages"
   },
   "dependencies": {
-    "bootstrap": "^4.1.3",
+    "bootstrap": "^4.6.0",
     "css-loader": "^1.0.0",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "moment": "^2.22.2",
     "postcss-loader": "^3.0.0",
     "vue": "^2.5.17",

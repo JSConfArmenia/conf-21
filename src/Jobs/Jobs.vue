@@ -69,6 +69,10 @@
             <h3 class="Vacancy">Senior Javascript Engineer, Growth</h3>
             <p class="Company">Picsart</p>
         </a>
+        <a href="https://boards.greenhouse.io/codesignal/jobs/4001228004" target="_blank">
+            <h3 class="Vacancy">Site Reliability Engineer</h3>
+            <p class="Company">CodeSignal</p>
+        </a>
       </div>
       <div class="col-md-4">
       <!-- Backend -->
@@ -135,6 +139,10 @@
             <h3 class="Vacancy">Javascript Engineer, Editor</h3>
             <p class="Company">Picsart</p>
         </a>
+        <a href="https://boards.greenhouse.io/codesignal/jobs/4001227004" target="_blank">
+            <h3 class="Vacancy">Software Engineer</h3>
+            <p class="Company">CodeSignal</p>
+        </a>
       </div>
       <div class="col-md-4">
         <!-- Fullstack, Mobile & More -->
@@ -193,6 +201,14 @@
         <a href="https://picsart.com/job/4006704004?gh_jid=4006704004" target="_blank">
             <h3 class="Vacancy">Frontend Engineer, Data Infrastructure (Angular)</h3>
             <p class="Company">Picsart</p>
+        </a>
+        <a href="https://boards.greenhouse.io/codesignal/jobs/4113969004" target="_blank">
+            <h3 class="Vacancy">Software Infrastructure Engineer</h3>
+            <p class="Company">CodeSignal</p>
+        </a>
+        <a href="https://boards.greenhouse.io/codesignal/jobs/4114002004" target="_blank">
+            <h3 class="Vacancy">API Integration Engineer</h3>
+            <p class="Company">CodeSignal</p>
         </a>
       </div>
     </div>

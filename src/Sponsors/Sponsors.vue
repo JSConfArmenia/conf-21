@@ -96,6 +96,18 @@
             <h4 class="Name">EPAM Systems</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-CodeSignal -gold" href="https://codesignal.com/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">CodeSignal</h4>
+          </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-VMware -gold" href="https://www.vmware.com/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">VMware</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
@@ -312,10 +324,20 @@ export default {
     background-size: 240px;
   }
 
+  &.Sponsor-CodeSignal .Image {
+    background-image: url('/sponsors/codesignal.png');
+    background-size: 240px;
+  }
+
   &.Sponsor-MentorcliQ .Image {
     background-image: url('/sponsors/mentorcliq.svg');
     background-size: 240px;
   }
+
+&.Sponsor-VMware .Image {
+    background-image: url('/sponsors/vmware.png');
+    background-size: 240px;
+}
 
   &.Sponsor-PicsArt .Image {
     background-image: url('/sponsors/picsart.png');
