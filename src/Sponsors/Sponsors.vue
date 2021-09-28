@@ -108,19 +108,18 @@
             <h4 class="Name">VMware</h4>
           </a>
           </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3">
+          <a class="Sponsor Sponsor-Disqo -gold" href="https://disqo.com/" target="_blank">
+            <div class="Image"></div>
+            <h4 class="Name">DISQO</h4>
+          </a>
+          </div>
         </div>
       </section>
       <section class="Section">
         <h3 class="Subtitle">Silver sponsors</h3>
 
         <div class="row justify-content-center">
-
-          <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Coinstats -silver" href="https://coinstats.app/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">CoinStats</h4>
-            </a>
-          </div>
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
             <a class="Sponsor Sponsor-Renderforest -silver" href="https://www.renderforest.com/" target="_blank">
               <div class="Image"></div>
@@ -139,13 +138,10 @@
               <h4 class="Name">Ameriabank</h4>
             </a>
           </div>
-
-          <!-- <div class="HR d-none  d-sm-none d-md-block d-lg-block d-xl-block"></div> -->
-
           <div class="col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-Vineti -silver" href="https://vineti.com/" target="_blank">
+            <a class="Sponsor Sponsor-StepConsulting -silver" href="https://stepconsulting.am/" target="_blank">
               <div class="Image"></div>
-              <h4 class="Name">Vineti</h4>
+              <h4 class="Name">StepConsulting</h4>
             </a>
           </div>
         </div>
@@ -173,14 +169,6 @@
               <h4 class="Name">IT Jobs</h4>
             </a>
           </div>
-
-          <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2">
-            <a class="Sponsor Sponsor-aua -starter" href="https://www.aua.am/" target="_blank">
-              <div class="Image"></div>
-              <h4 class="Name">American University <br> of Armenia</h4>
-            </a>
-          </div>
-        </div>
       </section>
       <div class="CallToActionContainer">
         <a href="http://bit.ly/supportJSConfAM21" class="Button -call-to-action -small" target="_blank">
@@ -369,7 +357,11 @@ export default {
 
   &.Sponsor-EPAM .Image {
     background-image: url('/sponsors/epam.png');
-    // background-size: 240px;
+  }
+
+&.Sponsor-Disqo .Image {
+    background-image: url('/sponsors/disqo.svg');
+    background-size: 240px;
   }
 
   &.Sponsor-Sololearn .Image {
@@ -382,21 +374,12 @@ export default {
     background-size: contain;
   }
 
-  &.Sponsor-Brainstorm .Image {
-    background-image: url('/sponsors/brainstorm.svg');
-    background-size: contain;
-  }
-
   &.Sponsor-10Web .Image {
     background-image: url('/sponsors/10web.svg')
   }
 
   &.Sponsor-Adobe .Image {
     background-image: url('/sponsors/adobe.svg')
-  }
-
-  &.Sponsor-Coinstats .Image {
-    background-image: url('/sponsors/coinstats.svg');
   }
 
   &.Sponsor-Renderforest .Image {
@@ -415,24 +398,13 @@ export default {
     background-image: url('/sponsors/simply.svg');
   }
 
-  &.Sponsor-Vineti .Image {
-    background-image: url('/sponsors/vineti.png');
-    background-size: 129px;
+  &.Sponsor-StepConsulting .Image {
+    background-image: url('/sponsors/stepconsulting.svg');
   }
 
   // &.Sponsor-Screenful .Image {
   //   background-image: url('/sponsors/screenful.png');
   //   background-size: 110px;
-  // }
-
-  // &.Sponsor-itjobs .Image {
-  //   width: 80px;
-  //   background-image: url('/sponsors/itjobs.svg');
-  // }
-
-  // &.Sponsor-aua .Image {
-  //   width: 80px;
-  //   background-image: url('/sponsors/aua.png');
   // }
 }
 
