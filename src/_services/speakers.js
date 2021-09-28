@@ -69,4 +69,14 @@ export default {
     name: 'Khachatur Virabyan',
     position: 'Software Engineer at Imgly',
   },
+  gleb: {
+    img: '/speakers/gleb.jpg',
+    name: 'Gleb Mikheev',
+    position: 'Founder & CTO at Beta Agency, Program Director at Skillbox, Co-organizer at FrontendConf ',
+  },
+  natalia: {
+    img: '/speakers/natalia.jpg',
+    name: 'Natalia Tepluhina',
+    position: 'Vue.js core team member, Staff Frontend Engineer at GitLab',
+  },
 };
