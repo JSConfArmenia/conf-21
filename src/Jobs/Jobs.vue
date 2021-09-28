@@ -69,9 +69,13 @@
             <h3 class="Vacancy">Senior Javascript Engineer, Growth</h3>
             <p class="Company">Picsart</p>
         </a>
-        <a href="https://boards.greenhouse.io/codesignal/jobs/4001228004" target="_blank">
-            <h3 class="Vacancy">Site Reliability Engineer</h3>
-            <p class="Company">CodeSignal</p>
+        <a href="https://jobs.lever.co/disqo/f90fbe0b-5471-4f87-8502-afd891c3aaf6" target="_blank">
+            <h3 class="Vacancy">Senior Front-end Engineer</h3>
+            <p class="Company">DISQO</p>
+        </a>
+        <a href="https://careers.vmware.com/main/jobs/R2106663?lang=en-us" target="_blank">
+            <h3 class="Vacancy">Frontend/UI Software Engineer</h3>
+            <p class="Company">vmware</p>
         </a>
       </div>
       <div class="col-md-4">
@@ -143,6 +147,10 @@
             <h3 class="Vacancy">Software Engineer</h3>
             <p class="Company">CodeSignal</p>
         </a>
+        <a href="https://careers.vmware.com/main/jobs/R2104994?lang=en-us" target="_blank">
+            <h3 class="Vacancy">Backend Software Engineer</h3>
+            <p class="Company">vmware</p>
+        </a>
       </div>
       <div class="col-md-4">
         <!-- Fullstack, Mobile & More -->
@@ -208,6 +216,14 @@
         </a>
         <a href="https://boards.greenhouse.io/codesignal/jobs/4114002004" target="_blank">
             <h3 class="Vacancy">API Integration Engineer</h3>
+            <p class="Company">CodeSignal</p>
+        </a>
+        <a href="https://careers.vmware.com/main/jobs/R2111341?lang=en-us" target="_blank">
+            <h3 class="Vacancy">Senior Architect</h3>
+            <p class="Company">vmware</p>
+        </a>
+        <a href="https://boards.greenhouse.io/codesignal/jobs/4001228004" target="_blank">
+            <h3 class="Vacancy">Site Reliability Engineer</h3>
             <p class="Company">CodeSignal</p>
         </a>
       </div>
