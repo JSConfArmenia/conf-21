@@ -42,7 +42,7 @@ export default {
       {
         img: '/team/Gevorg_Harutyunyan.jpg',
         name: 'Gevorg Harutyunyan',
-        position: 'Front-End Architect at Screenful, Founder of ModularCode',
+        position: 'Front-End Tech Lead at Pex.com, Founder at ModularCode',
       },
       {
         img: '/team/Rouben_Meschian.jpg',
