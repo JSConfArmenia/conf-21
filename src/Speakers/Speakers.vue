@@ -4,7 +4,7 @@
       <h2 class="Title">Who are<br><span class="Accent">The Ninjas?</span></h2>
       <div class="row no-gutters justify-content-center">
         <div
-          class="col-md-4 SpeakerCol"
+          class="col-md-3 SpeakerCol"
           v-for="speakerId in speakersList"
           :key="speakerId">
           <div class="Speaker">
@@ -73,7 +73,7 @@ export default {
   font-size: 4em;
   font-weight: normal;
   line-height: 1.2em;
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
 
   .Accent {
     font-size: 1.2em;
@@ -88,7 +88,7 @@ export default {
 }
 
 .Speaker {
-  max-width: 250px;
+  max-width: 200px;
   width: 100%;
   text-align: center;
   margin-bottom: 25px;
@@ -114,10 +114,12 @@ export default {
 
 .Name {
   margin-bottom: 0;
+  font-size: 1em,
 }
 
 .Position {
   color: #999;
+  font-size: 0.8em,
 }
 
 .CallToActionContainer {

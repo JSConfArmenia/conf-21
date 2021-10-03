@@ -72,7 +72,7 @@ export default {
   gleb: {
     img: '/speakers/gleb.jpg',
     name: 'Gleb Mikheev',
-    position: 'Founder & CTO at Beta Agency, Program Director at Skillbox, Co-organizer at FrontendConf ',
+    position: 'Founder & CTO at Beta Agency, Program Director at Skillbox, Co-organizer at FrontendConf',
   },
   natalia: {
     img: '/speakers/natalia.jpg',
