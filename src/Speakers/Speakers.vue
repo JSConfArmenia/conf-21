@@ -23,7 +23,7 @@
         <a href="https://bit.ly/speakJS2021" class="Button -call-to-action" target="_blank">
           Become a Ninja!
         </a>
-      </div> --> 
+      </div> -->
     </div>
     <div class="SpeakersBg"></div>
   </section>

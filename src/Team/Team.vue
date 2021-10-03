@@ -54,8 +54,8 @@ export default {
         name: 'Edgar Marukyan',
         position: 'CTO at Renderforest',
       },
-    ]
-  })
+    ],
+  }),
 };
 </script>
 
