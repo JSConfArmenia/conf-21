@@ -89,4 +89,9 @@ export default {
     name: 'Vasiliy Koryanov',
     position: 'Front-end Developer at ETP GPB',
   },
+  vitaly: {
+    img: '/speakers/vitaly.jpg',
+    name: 'Vitaly Slobodin',
+    position: 'Staff Frontend Engineer at GitLab, ex-PhantomJS developer',
+  },
 };
