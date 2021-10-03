@@ -17,12 +17,6 @@
       <a class="SocialIcon Icon-Telegram" href="https://t.me/jsconfarmenia" target="_blank"></a>
     </div>
 
-    <!-- <div class="PressRelease">
-      Press Release
-      <a href="/Press-Release-EN.pdf" target="_blank">En</a> |
-      <a href="/Press-Release-AM.pdf" target="_blank">Am</a>
-    </div> -->
-
     <p class="Credits">
       Coded in Vue.js by <a href="https://github.com/modularcoder" target="_blank">@modularcoder</a> and
       <a href="https://github.com/JSConfArmenia/conf-21/graphs/contributors" target="_blank">others</a>.

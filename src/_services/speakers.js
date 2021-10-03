@@ -79,4 +79,14 @@ export default {
     name: 'Natalia Tepluhina',
     position: 'Vue.js core team member, Staff Frontend Engineer at GitLab',
   },
+  illya: {
+    img: '/speakers/illya.jpeg',
+    name: 'Illya Klymov',
+    position: 'Senior Frontend Engineer at GitLab',
+  },
+  vasiliy: {
+    img: '/speakers/vasiliy.jpeg',
+    name: 'Vasiliy Koryanov',
+    position: 'Front-end Developer at ETP GPB',
+  },
 };
