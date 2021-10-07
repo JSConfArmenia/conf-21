@@ -8,8 +8,8 @@
         '-empty': !topic.name,
         '-small': topic.duration < 45,
         '-technical': topic.name === 'N/A' || topic.name === 'Break',
-        '-no-speaker': !speaker.name,
-        '-has-speaker': speaker.name,
+        '-no-speaker': !speakers.length,
+        '-has-speaker': !!speakers.length,
       }]">
       <div
         class="Name"
@@ -24,7 +24,7 @@
         </span>
 
       </div>
-      <div class="Body" v-if="speaker.name">
+      <div class="Body" v-if="speakers.length">
         <div class="row">
           <div class="col-4">
             <span
@@ -45,18 +45,20 @@
               }"></span>
           </div>
           <div class="col-8">
-            <div class="Speaker" >
-              <span
-                v-tooltip.bottom.end="{
-                  content: speaker.position,
-                  delay: 50,
-                }">
-                {{ speaker.name }}
-                <div
-                  class="Avatar"
-                  v-if="speaker.img"
-                  :style="{ backgroundImage: `url(${speaker.img})` }" ></div>
-              </span>
+            <div class="Speakers">
+              <div class="Speaker" v-for="speaker in speakers" :key="speaker.speakerId" >
+                <span
+                  v-tooltip.bottom.end="{
+                    content: speaker.position,
+                    delay: 50,
+                  }">
+                  {{ speaker.name }}
+                  <div
+                    class="Avatar"
+                    v-if="speaker.img"
+                    :style="{ backgroundImage: `url(${speaker.img})` }" ></div>
+                </span>
+              </div>
             </div>
           </div>
 
@@ -75,10 +77,10 @@ export default {
 
       }),
     },
-    speaker: {
-      default: () => ({
+    speakers: {
+      default: () => ([
 
-      }),
+      ]),
     },
   },
   methods: {
@@ -262,6 +264,12 @@ export default {
     border-color: #f07e31;
   }
 
+  .Speakers {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+
   .Speaker {
     font-size: .82em;
     font-weight: bold;
@@ -272,6 +280,7 @@ export default {
     text-align: right;
     transition: all .3s ease;
     cursor: default;
+    margin-left: 10px;
   }
 
   .Speaker:hover .Avatar {

@@ -49,14 +49,14 @@
                     v-for="(topic, index) in topics[1]"
                     :key="index"
                     :topic="topic"
-                    :speaker="getSpeaker(topic.speakerId)" />
+                    :speakers="getTalkSpeakers(topic)" />
                 </div>
                 <div class="col col-6">
                   <TopicItem
                     v-for="(topic, index) in topics[2]"
                     :key="index"
                     :topic="topic"
-                    :speaker="getSpeaker(topic.speakerId)" />
+                    :speakers="getTalkSpeakers(topic)" />
                 </div>
               </div>
 
@@ -84,8 +84,10 @@ export default {
     speakers,
   }),
   methods: {
-    getSpeaker: function getSpeaker(speakerId) {
-      return this.speakers[speakerId] || {};
+    getTalkSpeakers: function getSpeaker(topic) {
+      const speakerIds = topic.speakerIds || (topic.speakerId ? [topic.speakerId] : []);
+
+      return speakerIds.map(speakerId => this.speakers[speakerId] || {});
     },
   },
   components: {
