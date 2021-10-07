@@ -19,11 +19,6 @@ export default {
     name: 'Hrach Mkrtchyan',
     position: 'Lead Frontend Engineer at Renderforest',
   },
-  someone: {
-    img: '/speakers/you.jpg',
-    name: 'Someone Like You',
-    position: 'More names coming soon',
-  },
   sandro: {
     img: '/speakers/sandro.jpg',
     name: 'Sandro Dolidze',
@@ -93,5 +88,15 @@ export default {
     img: '/speakers/vitaly.jpg',
     name: 'Vitaly Slobodin',
     position: 'Staff Frontend Engineer at GitLab, ex-PhantomJS developer',
+  },
+  arsen: {
+    img: '/speakers/arsen.png',
+    name: 'Arsen Mazmanyan',
+    position: 'Game Developer at Armath',
+  },
+  armenv: {
+    img: '/speakers/armen.png',
+    name: 'Armen Vardanyan',
+    position: 'Senior Angular developer at VOLO',
   },
 };

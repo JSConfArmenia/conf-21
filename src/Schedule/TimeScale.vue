@@ -18,11 +18,11 @@ import moment from 'moment';
 export default {
   props: ['start'],
   data: () => ({
-    timeScale: Array.from(Array(35)).map((item, index) => (index * 15)),
+    timeScale: Array.from(Array(40)).map((item, index) => (index * 15)),
   }),
   methods: {
     getTime: function getTime(minutesPassed) {
-      return moment(`2017-12-09 ${this.start}:00`).add(minutesPassed, 'm').format('H:mm');
+      return moment(`2021-10-23 ${this.start}:00`).add(minutesPassed, 'm').format('H:mm');
     },
   },
   mounted: function mounted() {

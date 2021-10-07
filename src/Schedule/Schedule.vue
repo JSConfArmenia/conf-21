@@ -2,8 +2,7 @@
   <section class="Schedule" id="Schedule">
     <div class="Container">
       <h2 class="Title">Event Schedule</h2>
-      <h3 class="Subtitle">June 19, 2021</h3>
-
+      <h3 class="Subtitle">October 23, 2021</h3>
       <div class="TimeTable">
         <div class="TimeTableSection">
           <TimeScale
@@ -26,48 +25,35 @@
         </div>
 
         <div class="TimeTableSection">
-          <TimeScale
-            :start="'10:00'" />
+          <TimeScale :start="'10:00'" />
           <!-- Scrollable content -->
           <div class="TimeTableContent -scrollable">
             <div class="TimeTableContentHeader">
               <div class="row">
-                <div class="col col-4">
+                <div class="col col-6">
                   <label class="Label">
-                    Manoogyan Hall
+                    Hall 1
                   </label>
                 </div>
-                <div class="col col-4">
+                <div class="col col-6">
                   <label class="Label">
-                    408E
-                  </label>
-                </div>
-                <div class="col col-4">
-                  <label class="Label">
-                    114W
+                    Hall 2
                   </label>
                 </div>
               </div>
             </div>
             <div class="TimeTableTopics">
               <div class="row">
-                <div class="col col-4">
+                <div class="col col-6">
                   <TopicItem
                     v-for="(topic, index) in topics[1]"
                     :key="index"
                     :topic="topic"
                     :speaker="getSpeaker(topic.speakerId)" />
                 </div>
-                <div class="col col-4">
+                <div class="col col-6">
                   <TopicItem
                     v-for="(topic, index) in topics[2]"
-                    :key="index"
-                    :topic="topic"
-                    :speaker="getSpeaker(topic.speakerId)" />
-                </div>
-                <div class="col col-4">
-                  <TopicItem
-                    v-for="(topic, index) in topics[3]"
                     :key="index"
                     :topic="topic"
                     :speaker="getSpeaker(topic.speakerId)" />
@@ -89,8 +75,8 @@
 import topics from '@/_services/topics';
 import speakers from '@/_services/speakers';
 
-import TimeScale from './TimeScale';
-import TopicItem from './TopicItem';
+import TimeScale from './TimeScale.vue';
+import TopicItem from './TopicItem.vue';
 
 export default {
   data: () => ({

@@ -100,23 +100,17 @@ export default {
     getLanguageTooltipContent: function getLanguageTooltipContent() {
       if (this.topic.lang === 'am') {
         return 'Language: Armenian';
-      }
-      else if (this.topic.lang === 'ru') {
+      } else if (this.topic.lang === 'ru') {
         return 'Language: Russian';
-      }
-      else if (this.topic.lang === 'en') {
+      } else if (this.topic.lang === 'en') {
         return 'Language: English';
       }
-
       return '';
     },
   },
   // ['topic', 'speaker'],
 };
 </script>
-
-
-
 
 <style scoped>
   .TopicContainer {
