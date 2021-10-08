@@ -56,11 +56,11 @@ export default [
       lang: 'en',
     },
     {
-      name: 'Local state and server cache: finding a balance',
-      speakerId: 'natalia',
+      name: 'Deno vs Node.js',
+      speakerIds: ['armen', 'mike'],
       duration: 30,
       levels: [1],
-      lang: 'en',
+      lang: 'am',
     },
     {
       name: 'Break',
@@ -145,11 +145,11 @@ export default [
       lang: 'am',
     },
     {
-      name: 'Deno vs Node.js',
-      speakerIds: ['armen', 'mike'],
+      name: 'Local state and server cache: finding a balance',
+      speakerId: 'natalia',
       duration: 30,
       levels: [1],
-      lang: 'am',
+      lang: 'en',
     },
     {
       name: 'Break',
