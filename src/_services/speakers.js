@@ -12,7 +12,7 @@ export default {
   davit: {
     img: '/speakers/davit.jpg',
     name: 'Davit Abgaryan',
-    position: 'Software Engineering Team Lead at SuperAnnotate',
+    position: 'Software Engineer Manager at SuperAnnotate',
   },
   hrach: {
     img: '/speakers/hrach.jpg',
