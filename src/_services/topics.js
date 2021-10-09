@@ -131,11 +131,11 @@ export default [
       duration: 70,
     },
     {
-      name: 'Event Store - Cool replacement for React Context',
-      speakerId: 'elmira',
+      name: 'Why you should definitely use NgRx',
+      speakerId: 'armenv',
       duration: 35,
       levels: [1, 2],
-      lang: 'am',
+      lang: 'en',
     },
     {
       name: 'The World Beyond console.log',
@@ -156,11 +156,11 @@ export default [
       duration: 20,
     },
     {
-      name: 'Why you should definitely use NgRx',
-      speakerId: 'armenv',
+      name: 'Event Store - Cool replacement for React Context',
+      speakerId: 'elmira',
       duration: 35,
       levels: [1, 2],
-      lang: 'en',
+      lang: 'am',
     },
     {
       name: 'Micro-frontend has entered the game',
