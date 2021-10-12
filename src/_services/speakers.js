@@ -22,7 +22,7 @@ export default {
   sandro: {
     img: '/speakers/sandro.jpg',
     name: 'Sandro Dolidze',
-    position: 'Co-founder & CTO at Tami Cloud',
+    position: 'Co-founder & CTO at Temi Cloud',
   },
   nairi: {
     img: '/speakers/nairi.jpg',
