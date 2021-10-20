@@ -1,11 +1,15 @@
 <template>
   <div class="TimeScale">
     <div
-      v-for="(minutesPassed, index) in timeScale"
+      v-for="(block, index) in timeBlocks"
       :key="index"
-      class="Item">
+      class="Item"
+      :style="{
+        flexBasis: `${block.duration * 3}px`,
+        height: `${block.duration * 3}px`,
+      }">
       <div class="Label">
-        {{ getTime(minutesPassed) }}
+        {{ getTime(block.start) }}
       </div>
       <div class="Ruller"></div>
     </div>
@@ -16,10 +20,35 @@
 import moment from 'moment';
 
 export default {
-  props: ['start'],
+  props: ['start', 'topics'],
   data: () => ({
     timeScale: Array.from(Array(40)).map((item, index) => (index * 15)),
   }),
+  computed: {
+    minuteHeight() {
+      return 3;
+    },
+    timeBlocks() {
+      if (!this.topics || !this.topics.length) {
+        return Array.from(Array(40)).map((item, index) => ({ index, duration: 15 }));
+      }
+
+      let startCounter = 0;
+
+      return this.topics.map((topic, index) => {
+        const block = {
+          index,
+          duration: topic.duration,
+          start: startCounter,
+          end: startCounter + topic.duration,
+        };
+
+        startCounter += block.duration;
+
+        return block;
+      });
+    },
+  },
   methods: {
     getTime: function getTime(minutesPassed) {
       return moment(`2021-10-23 ${this.start}:00`).add(minutesPassed, 'm').format('H:mm');
@@ -43,8 +72,8 @@ export default {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    height: 45px;
-    flex-basis: 45px;
+    /* height: 45px; */
+    /* flex-basis: 45px; */
   }
 
   .Label {
