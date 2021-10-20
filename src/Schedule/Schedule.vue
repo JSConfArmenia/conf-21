@@ -6,7 +6,7 @@
       <div class="TimeTable">
         <div class="TimeTableSection">
           <TimeScale
-            :start="'9:30'" />
+            :start="'9:30'" :topics="[[{ duration: 30 },  {duration: 30}]]" />
           <div class="TimeTableContent">
             <div class="TimeTableContentHeader">
               <div class="row">
@@ -25,7 +25,7 @@
         </div>
 
         <div class="TimeTableSection">
-          <TimeScale :start="'10:00'" />
+          <TimeScale :start="'10:00'" :topics="topics[1]"  />
           <!-- Scrollable content -->
           <div class="TimeTableContent -scrollable">
             <div class="TimeTableContentHeader">
