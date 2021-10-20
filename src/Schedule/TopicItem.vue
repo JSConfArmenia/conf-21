@@ -276,7 +276,7 @@ export default {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    color: #999;
+    color: #666;
     text-align: right;
     transition: all .3s ease;
     cursor: default;
