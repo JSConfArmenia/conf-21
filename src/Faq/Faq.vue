@@ -6,9 +6,7 @@
       <div class="col-md-6">
         <h3 class="Question">What is JavaScript Conference Armenia?</h3>
         <p class="Answer">
-          JS Conf Armenia is a big IT event that brings together a huge number of IT
-          professionals to attend talks, workshops, participate in
-          competitions, get informed about open positions at sponsor IT companies and more.
+          JS Conf Armenia is an international annual JavaScript conference and the biggest tech conf in the region hosting 1000+ people every year.
         </p>
         <h3 class="Question">When and where is it going to take place?</h3>
         <p class="Answer">
@@ -27,7 +25,8 @@
         </p>
         <h3 class="Question">What are the talk topics?</h3>
         <p class="Answer">
-          The agenda is coming soon.
+          To see the conf agenda, please,
+          <a href="#Schedule">click here</a>.
         </p>
         <h3 class="Question">Who are the organizers? </h3>
         <p class="Answer">

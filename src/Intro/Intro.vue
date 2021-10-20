@@ -2,6 +2,7 @@
   <section class="Intro" id="Intro">
     <div class="Container">
       <h1 class="Title">JavaScript Conference <br> Armenia</h1>
+      <h2 class="Subtitle">Sundukyan Academic Theatre</h2>
       <h3 class="Subtitle">October 23, 2021</h3>
       <a href="https://bit.ly/joinJSConfAM21" class="Button -default" target="_blank">
         Request an Invite
