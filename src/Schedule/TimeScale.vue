@@ -50,8 +50,8 @@ export default {
     },
   },
   methods: {
-    getTime: function getTime(minutesPassed) {
-      return moment(`2021-10-23 ${this.start}:00`).add(minutesPassed, 'm').format('H:mm');
+    getTime: function getTime(minutesPassed = 0) {
+      return moment(new Date(`10/23/2021 ${this.start}:00`)).add(minutesPassed, 'm').format('H:mm');
     },
   },
   mounted: function mounted() {

@@ -6,7 +6,7 @@
       <div class="TimeTable">
         <div class="TimeTableSection">
           <TimeScale
-            :start="'9:30'" :topics="[[{ duration: 30 },  {duration: 30}]]" />
+            :start="'09:30'" :topics="[{ duration: 30 }]" />
           <div class="TimeTableContent">
             <div class="TimeTableContentHeader">
               <div class="row">
