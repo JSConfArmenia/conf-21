@@ -21,6 +21,25 @@
         </div>
        </div>
 
+       <div class="row" :style="{
+         display: 'flex',
+         justifyContent: 'center'
+       }">
+          <div
+            v-for="(member, index) in asistants"
+            class="Asistant"
+            :key="index">
+            <div
+              class="Img"
+              :style="{
+                backgroundImage: `url(${member.img})`
+              }">
+            </div>
+            <h3 class="Name">{{member.name}}</h3>
+            <h5 class="Position">{{member.position}}</h5>
+          </div>
+       </div>
+
     </div>
   </section>
 </template>
@@ -55,6 +74,18 @@ export default {
         position: 'CTO at Renderforest',
       },
     ],
+    asistants: [
+      {
+        img: '/team/Gevorg_Gasparyan.jpg',
+        name: 'Gevorg Gasparyan',
+        position: 'Event Asistant',
+      },
+      {
+        img: '/team/Anna_Martirosyan.jpg',
+        name: 'Anna Martirosyan',
+        position: 'Head of volunteering team',
+      },
+    ],
   }),
 };
 </script>
@@ -76,6 +107,15 @@ export default {
     width: 100%;
     text-align: center;
     margin-bottom: 25px;
+  }
+
+  .Asistant {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    text-align: center;
   }
 
   .Img {
