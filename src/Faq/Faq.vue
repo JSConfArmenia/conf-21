@@ -43,8 +43,7 @@
       <div class="col-md-6">
         <h3 class="Question">How to participate?</h3>
         <p class="Answer">
-        The entry is invite-only. To request an invitation for participation, please,
-        <a href="https://bit.ly/joinJSConfAM21" target="_blank">click here</a>.
+        The entry is invite-only but the application for the invite is already closed.
         </p>
         <h3 class="Question">How much is the entry-ticket?</h3>
         <p class="Answer">
