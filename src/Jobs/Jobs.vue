@@ -226,6 +226,10 @@
             <h3 class="Vacancy">Site Reliability Engineer</h3>
             <p class="Company">CodeSignal</p>
         </a>
+        <a href="https://jobs.krisp.ai/f12fdd4a6ad445d39c73580cd72d1078" target="_blank">
+            <h3 class="Vacancy">Senior Electron.js Engineer</h3>
+            <p class="Company">Krisp</p>
+        </a>
       </div>
     </div>
 
