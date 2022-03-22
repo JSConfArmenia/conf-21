@@ -15,6 +15,7 @@ export default [
       duration: 35,
       levels: [1, 2],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3twoshv',
     },
     {
       name: 'Babylon.js: Black Jack',
@@ -29,6 +30,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://bit.ly/353njoj',
     },
     {
       name: 'Building component library from scratch',
@@ -36,6 +38,7 @@ export default [
       duration: 35,
       levels: [1, 2],
       lang: 'en',
+      videoUrl: 'https://bit.ly/3D0CTxo',
     },
     {
       name: 'Break',
@@ -47,6 +50,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3JAjupv',
     },
     {
       name: 'Optimization design patterns - from games to web',
@@ -61,6 +65,7 @@ export default [
       duration: 30,
       levels: [1],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3qOsgZV',
     },
     {
       name: 'Break',
@@ -72,6 +77,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'ru',
+      videoUrl: 'https://bit.ly/3qOsgZV',
     },
     {
       name: 'WebAssembly and how web apps are being revolutionized',
@@ -79,13 +85,15 @@ export default [
       duration: 35,
       levels: [1],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3IxKZyw',
     },
     {
-      name: 'The secrets of successful refactoring',
+      name: 'The Secrets of Successful Refactoring',
       speakerId: 'illya',
       duration: 35,
       levels: [1],
       lang: 'ru',
+      videoUrl: 'https://bit.ly/36l4Kwf',
     },
     {
       name: 'Closing',
@@ -104,6 +112,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3uijVhJ',
     },
     {
       name: 'Nuxt 3. What\'s new?',
@@ -111,6 +120,7 @@ export default [
       duration: 35,
       levels: [1, 2],
       lang: 'ru',
+      videoUrl: 'https://bit.ly/3tvTdDe',
     },
     {
       name: 'Audio and video manipulation',
@@ -118,6 +128,7 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://bit.ly/36eH9xx',
     },
     {
       name: 'Control a drone with JavaScript',
@@ -125,6 +136,7 @@ export default [
       duration: 35,
       levels: [0, 1],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3N9Ut6T',
     },
     {
       name: 'Break',
@@ -136,6 +148,7 @@ export default [
       duration: 35,
       levels: [1, 2],
       lang: 'en',
+      videoUrl: 'https://bit.ly/3ty16b6',
     },
     {
       name: 'The World Beyond console.log',
@@ -143,13 +156,15 @@ export default [
       duration: 35,
       levels: [],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3uheUGl',
     },
     {
-      name: 'Local state and server cache: finding a balance',
+      name: 'Local State and Server Cache: Finding a Balance',
       speakerId: 'natalia',
       duration: 30,
       levels: [1],
       lang: 'en',
+      videoUrl: 'https://bit.ly/3qqjqkw',
     },
     {
       name: 'Break',
@@ -161,6 +176,7 @@ export default [
       duration: 35,
       levels: [1, 2],
       lang: 'am',
+      videoUrl: 'https://bit.ly/3ty16b6',
     },
     {
       name: 'Micro-frontend has entered the game',
@@ -168,6 +184,7 @@ export default [
       duration: 35,
       levels: [1],
       lang: 'ru',
+      videoUrl: 'https://bit.ly/3JA4Gay',
     },
   ],
 ];

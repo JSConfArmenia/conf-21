@@ -16,7 +16,7 @@
         :class="{
 
         }">
-        <a class="topicUrl" v-if="topic.videoUrl" :href="topic.videoUrl">
+        <a class="topicUrl" v-if="topic.videoUrl" :href="topic.videoUrl" target='_blank'>
           <i class="fa fa-youtube-play" aria-hidden="true"></i>  {{ topic.name }}
         </a>
         <span v-if="!topic.videoUrl">
